@@ -3,19 +3,38 @@ layout: default
 title: Home
 ---
 
-Syntax highlighted code block 4
+# Documentation sur le réchauffement climatique et les impacts environnementaux du numérique
 
-# Header 1
-## Header 2
-### Header 3
+## Sommaire
 
-- Bulleted
-- List
+### Réchauffement climatique
 
-1. Numbered
-2. List
+* [L'effet de serre](./pages/effetDeSerre.md)
+* [Liens sur les problématiques du climat](./pages/liensClimatProblemes.md)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link1](./articles/article1) and ![Image](src)
-[Link2](./articles/article1/index.md) 
+### Impacts du numérique
+
+* [Liens sur l'impact du numérique](./pages/liensNumeriqueProblemes.md)
+
+### Agir
+
+#### Action individuelle
+
+* [Liens sur les solutions/actions à apporter concernant le climat](./pages/liensClimatSolutions.md)
+
+#### Agir dans une entreprise du numérique
+
+##### Agir sur les impacts de l'entreprise
+
+##### Agir sur les impacts des salariés
+
+* [Agir sur les impacts des salariés](./pages/liensActionsSalaries.md)
+
+##### Agir sur les impacts de ses clients
+
+###### GreenTech
+
+###### Eco-Conception 
+
+* [Liens sur le numérique responsable](./pages/liensNumeriqueSolutions.md)
