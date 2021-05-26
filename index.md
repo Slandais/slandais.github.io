@@ -12,4 +12,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](./articles/article1.md) and ![Image](src)
+[Link1](./articles/article1) and ![Image](src)
+[Link2](./articles/article1/index.md) 
