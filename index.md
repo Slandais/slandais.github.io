@@ -1,5 +1,6 @@
 ---
-layout:page
+layout: default
+title: Home
 ---
 
 Syntax highlighted code block 2
