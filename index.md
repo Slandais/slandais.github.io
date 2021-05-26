@@ -1,4 +1,4 @@
-Syntax highlighted code block
+Syntax highlighted code block 2
 
 # Header 1
 ## Header 2
