@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Syntax highlighted code block 2
+Syntax highlighted code block 3
 
 # Header 1
 ## Header 2
