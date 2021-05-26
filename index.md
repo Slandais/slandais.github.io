@@ -1,3 +1,7 @@
+---
+layout:page
+---
+
 Syntax highlighted code block 2
 
 # Header 1
