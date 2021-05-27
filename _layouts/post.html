@@ -2,6 +2,6 @@
 layout: default
 ---
 
-<p>📅 {{ page.date | date_to_string }}</p>
+<p>📅 {{ page.date | date: "%-m/%-d/%Y" }}</p>
 
 {{ content }}
