@@ -72,16 +72,35 @@
 * [Je donne mon téléphone](https://www.jedonnemontelephone.fr/)
 * [Don ordi - Carte des organismes récupérant les ordinateurs](http://donordi.fr/)
 
+## Location de matériel
+
+* [Commown](https://commown.coop/)
+
 ## Réparation du matériel
 
 * [Captain repair](https://www.captain-repair.com/)
-* [Annuaire des Repar'Acteurs](https://www.annuaire-reparation.fr/)t
+* [Annuaire des Repar'Acteurs](https://www.annuaire-reparation.fr/)
+* [iFixit](https://fr.ifixit.com/)
+* [sosav](https://www.sosav.fr/)
 
 ## Acheter du matériel reconditionné
 
 * [La bootique - Les ateliers du bocage](https://la-bootique.com/)
 * [Recommerce](https://www.recommerce.com/)
 * [Back Market](https://www.backmarket.fr/)
+
+## Acheter du matériel durable/réparable
+
+* [Fairphone](https://www.fairphone.com/fr/)
+* [Frame.Work](https://frame.work/)
+* [Indice de réparabilité français](https://www.indicereparabilite.fr/)
+* [Indice de réparabilité des smartphones de iFixit](https://fr.ifixit.com/smartphone-repairability)
+* [Indice de réparabilité des ordinateurs de iFixit](https://fr.ifixit.com/laptop-repairability)
+
+
+## Forfait téléphonie
+
+* [Telecoop](https://telecoop.fr/)
 
 ## Inclusion numérique
 
