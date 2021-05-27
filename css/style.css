@@ -1,3 +1,18 @@
+html {
+  width: 100%;
+}
+
 header {
   background-color: #394c72;
+  height: 30px;
+  color: #ffffff;
+}
+
+header a {
+    color: #ffffff;
+}
+
+.main-content {
+  padding-left: 15px;
+  padding-right: 15px;
 }
