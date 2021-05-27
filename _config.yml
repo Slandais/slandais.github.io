@@ -1,1 +1,16 @@
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  
+# SEO Stuff
+author: Simon LANDAIS
+description: Site Internet personnel sur l'usage raisonné du numérique, le numérique responsable
+lang: fr
+locale: fr_FR
+url: "https://www.numerique-raisonne.fr"
+baseurl: ""
+
+# RSS feeds
+feed:
+  posts_limit: 20
