@@ -15,3 +15,7 @@ a {
 a[href]:after {
 		content: ' (' attr(href) ')';
 }
+
+footer {
+display:none;	
+}
