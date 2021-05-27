@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accueil
+title: Numérique raisonné
 ---
 
 # Documentation sur le réchauffement climatique et les impacts environnementaux du numérique
