@@ -9,13 +9,14 @@ Documentation sur le réchauffement climatique et les impacts environnementaux d
 
 ## Sommaire
 
-### Réchauffement climatique
+### Les impacts environnementaux du numérique
+
+#### Réchauffement climatique
 
 * [L'effet de serre](./pages/effetDeSerre.md)
 * [Liens sur les problématiques du climat](./pages/liensClimatProblemes.md)
 
-
-### Impacts du numérique
+#### En savoir plus
 
 * [Liens sur l'impact du numérique](./pages/liensNumeriqueProblemes.md)
 
