@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Accueil
 ---
 
 # Documentation sur le réchauffement climatique et les impacts environnementaux du numérique
