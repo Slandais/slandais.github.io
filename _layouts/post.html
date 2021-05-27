@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p>📅 {{ page.date | date: "%-m/" }}</p>
+<p>📅 {{ page.date | date: "%-m/" }}
 {% assign m = page.date | date: "%-m" %}
 {% case m %}
   {% when '1' %}Januar
@@ -18,6 +18,6 @@ layout: default
   {% when '11' %}November
   {% when '12' %}Dezember
 {% endcase %}
-<p>📅 {{ page.date | date: "/%Y" }}</p>
+{{ page.date | date: "/%Y" }}</p>
 
 {{ content }}
