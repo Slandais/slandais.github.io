@@ -2,7 +2,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-minifier
-  - jekyll-seo-tag
+  - jekyll-coffeescript
   
 # SEO Stuff
 author: Simon LANDAIS
