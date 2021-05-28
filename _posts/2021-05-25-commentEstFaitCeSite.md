@@ -46,8 +46,8 @@ Les inconvénients c'est qu'ils proposent moins de fonctionnalités. Ils sont do
 Pour le site numerique-raisonne.fr j'ai fait le choix de [SimpleCSS](https://simplecss.org/) qui ne pèse que 4kb alors que Bootstrap pèse 144Kb.
 
 Comparatifs d'autres frameworks sans classes :
-* [https://www.designinspiration.info/classless-css-frameworks]
-* [https://dev.to/skypack/the-best-classless-css-frameworks-in-2021-427a]
+* https://www.designinspiration.info/classless-css-frameworks
+* https://dev.to/skypack/the-best-classless-css-frameworks-in-2021-427a
 
 # Aller plus loin
 
