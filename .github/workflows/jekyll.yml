@@ -16,7 +16,7 @@ jobs:
       with:
         directory: 'assets/css'      # Optional
         output: 'assets/css'  # Optional
-        add_suffix: false     # Optional
+        add_suffix: true     # Optional
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
@@ -27,4 +27,4 @@ jobs:
       with:
         directory: 'assets/css'      # Optional
         output: 'assets/css'  # Optional
-        add_suffix: false     # Optional
+        add_suffix: true     # Optional
