@@ -11,12 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: CSS Minifier
-      uses: chand1012/action-css-minify@v1
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
-    - name: CSS Minifier
-      uses: chand1012/action-css-minify@v1
+    - name: HTML/CSS/JS Minifier
+      uses: devatherock/minify-js@v1.0.2
