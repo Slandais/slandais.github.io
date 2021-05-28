@@ -42,4 +42,4 @@ Documentation sur le réchauffement climatique et les impacts environnementaux d
 
 * [Liens sur le numérique responsable](./pages/liensNumeriqueSolutions.md)
 
-{% jekyll.environment %}
+{{ jekyll.environment }}
