@@ -1,7 +1,6 @@
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-minifier
   
 # SEO Stuff
 author: Simon LANDAIS
