@@ -34,6 +34,21 @@ Cela permet de tout versionner et de facilement pouvoir revenir en arrière. Les
 
 GitHub Pages permet d'hébergé de site Jekyll avec le mécanisme Git-based. En modifiant le contenu du site dans GitHub, celui-ci génère les pages HTML qui seront alors visibles des visiteurs.
 
+# Framework CSS sans classe : SimpleCSS
+
+Un framework CSS sans classe (en anglais "Classless CSS Framework" ou "No-Class CSS Framework") est un framework CSS ne se basant que sur les balises natives du HTML.
+Il se dinstingue donc des autres framework CSS, comme Bootstrap, Tailwind CSS ou Foundation, qui vont proposer des classes CSS spécifiques au framework à ajouter dans votre HTML.
+
+Les avantages des frameworks CSS sans classe sont donc de plus facilement pouvoir passer d'un framework CSS sans classe à un autre, puisqu'il n'y a pas de classe CSS spécifique. Ces frameworks sont aussi plus léger.
+
+Les inconvénients c'est qu'ils proposent moins de fonctionnalités. Ils sont donc moins adaptés à la création de grosse applications web avec un travail en équipe, où l'usage d'un plus gros framework permettra d'harmoniser des composants plus élaborés d'un écran à un autre (système d'onglets, datePicker, modal, dropdown).
+
+Pour le site numerique-raisonne.fr j'ai fait le choix de [SimpleCSS](https://simplecss.org/) qui ne pèse que 4kb alors que Bootstrap pèse 144Kb.
+
+Comparatifs d'autres frameworks sans classes :
+* [https://www.designinspiration.info/classless-css-frameworks]
+* [https://dev.to/skypack/the-best-classless-css-frameworks-in-2021-427a]
+
 # Aller plus loin
 
 Si vous, ou des éditeurs du site, ne sont pas à l'aise avec le fait d'écrire des articles/pages en Mardown, alors il est possible possible d'utiliser un outil tel que [Forestry](https://forestry.io/) qui permet de gérer le contenu comme on le ferait dans un CMS Wordpress ou Drupal.
