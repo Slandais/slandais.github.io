@@ -9,11 +9,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
-    - name: HTML/CSS/JS Minifier
-      uses: devatherock/minify-js@v1.0.2
+    - name: CSS Minifier
+      uses: chand1012/action-css-minify@v1
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
