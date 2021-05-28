@@ -41,3 +41,5 @@ Documentation sur le réchauffement climatique et les impacts environnementaux d
 ###### Eco-Conception 
 
 * [Liens sur le numérique responsable](./pages/liensNumeriqueSolutions.md)
+
+{% jekyll.environment %}
