@@ -11,6 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: HTML/CSS/JS Minifier
+      uses: devatherock/minify-js@v1.0.2
+      with:
+        directory: 'assets/css'      # Optional
+        output: 'assets/css'  # Optional
+        add_suffix: false     # Optional
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
@@ -18,3 +24,7 @@ jobs:
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
     - name: HTML/CSS/JS Minifier
       uses: devatherock/minify-js@v1.0.2
+      with:
+        directory: 'assets/css'      # Optional
+        output: 'assets/css'  # Optional
+        add_suffix: false     # Optional
