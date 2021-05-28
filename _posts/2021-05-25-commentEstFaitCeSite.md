@@ -7,7 +7,7 @@ layout: post
 
 # Site statique
 
-www.numerique-raisonne.fr est un site statique, c'est à que le contenu est constitué de page HTML. 
+numerique-raisonne.fr est un site statique, c'est à que le contenu est constitué de page HTML. 
 Il n'y a pas de traitement effectué par le serveur au moment où vous tentez de consulter une page. L'absence de ce traitement serveur fait que la page s'affiche plus rapidement.
 
 Les sites statiques se distinguent donc des sites dynamiques, qui peuvent être générés par du PHP, tels que Wordpress ou Drupal. 
