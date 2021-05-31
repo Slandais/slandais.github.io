@@ -23,10 +23,10 @@ L'ecoindex est un outil indiquant :
 * l’empreinte technique de la page (complexité du DOM, poids, nombre de requêtes, etc.)
 * l’empreinte environnementale associée (empreinte carbone, consommation d'eau etc.)
 
-Le calcul est Open Source, et peut être utilisé :
-* [D'une extension à votre navigateur](http://www.ecoindex.fr/)
-* [De cette ligne de commande](https://github.com/cnumr/ecoindex_cli)
-* [De ce simulateur en ligne](https://rachelwe.github.io/Simulateur-ecoindex/)
+Le calcul est Open Source, et peut être utilisé avec :
+* [Une extension dans votre navigateur](http://www.ecoindex.fr/)
+* [Cette ligne de commande](https://github.com/cnumr/ecoindex_cli)
+* [Ce simulateur en ligne](https://rachelwe.github.io/Simulateur-ecoindex/)
 
 [En savoir plus sur son fonctionnement](http://www.ecoindex.fr/quest-ce-que-ecoindex/)
 
