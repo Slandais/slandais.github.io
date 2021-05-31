@@ -26,7 +26,7 @@ L'ecoindex est un outil indiquant :
 Le calcul est Open Source, et peut être utilisé :
 * [D'une extension à votre navigateur](http://www.ecoindex.fr/)
 * [De cette ligne de commande](https://github.com/cnumr/ecoindex_cli)
-* [De ce simulateur en ligne(https://rachelwe.github.io/Simulateur-ecoindex/)
+* [De ce simulateur en ligne](https://rachelwe.github.io/Simulateur-ecoindex/)
 
 [En savoir plus sur son fonctionnement](http://www.ecoindex.fr/quest-ce-que-ecoindex/)
 
@@ -34,12 +34,12 @@ Comparaison des moteurs de recherche (testé en mai 2021)
 
 | Moteur          | Score           | Note            |
 | --------------- | --------------- | --------------- |
-| Qwant | 79 | A |
-| DuckDuckGo | 79 | A |
-| Ecosia | 68 | B |
-|    Google  |    75    | B |
-|    Lilo  |    43    | D |
-|    Bing    |    32    | E   |
-|    Yahoo    |    20    | F   |
+| Qwant           | 79              | A |
+| DuckDuckGo      | 79 | A |
+| Ecosia          | 68 | B |
+|    Google       |    75    | B |
+|    Lilo         |    43    | D |
+|    Bing         |    32    | E   |
+|    Yahoo        |    20    | F   |
 
 
