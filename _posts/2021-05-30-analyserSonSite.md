@@ -50,11 +50,11 @@ Comparaison des sites d'informations (testé en mai 2021)
 | --------------- | --------------- | --------------- |
 | Mediapart          | 44 | D |
 | Franceinfo          | 47 | D |
-| L'équipe          | 47 | D |
+| L'Équipe          | 47 | D |
 |    Slate       |    32    | E |
 |    20minutes       |    26    | E |
 |    Libération       |    22    | E |
 |    Le Monde         |    18    | F |
-|    Le point         |    6    | F   |
-|    Le parisien         |    5    | G   |
+|    Le Point         |    6    | F   |
+|    Le Parisien         |    5    | G   |
 |    Le Figaro        |    0    | G   |
