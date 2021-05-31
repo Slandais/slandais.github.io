@@ -48,7 +48,7 @@ Comparaison des sites d'informations (testé en mai 2021)
 
 | Moteur          | Score           | Note            |
 | --------------- | --------------- | --------------- |
-| Mediapart          | 42 | D |
+| Mediapart          | 44 | D |
 | Franceinfo          | 47 | D |
 | L'équipe          | 47 | D |
 |    Slate       |    32    | E |
