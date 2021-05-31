@@ -32,14 +32,14 @@ Le calcul est Open Source, et peut être utilisé :
 
 Comparaison des moteurs de recherche (testé en mai 2021)
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
+| Moteur          | Score           | Note            |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| Qwant | Row 1 Column 2 | Row 1 Column 3 |
+| DuckDuckGo | Row 2 Column 2 | Row 2 Column 3 |
+| Ecosia | Row 3 Column 2 | Row 3 Column 3 |
 
 |Moteur|Score|Note|
-|    Qwant  |    79    | A |
+|      |    79    | A |
 |    DuckDuckGo  |    79    | A |
 |    Ecosia  |    68    | B |
 |    Google  |    75    | B |
