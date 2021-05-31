@@ -37,6 +37,10 @@ Comparaison des moteurs de recherche (testé en mai 2021)
 | Qwant | Row 1 Column 2 | Row 1 Column 3 |
 | DuckDuckGo | Row 2 Column 2 | Row 2 Column 3 |
 | Ecosia | Row 3 Column 2 | Row 3 Column 3 |
+|    Google  |    75    | B |
+|    Lilo  |    43    | D |
+|    Bing    |    32    | E   |
+|    Yahoo    |    20    | F   |
 
 |Moteur|Score|Note|
 |      |    79    | A |
