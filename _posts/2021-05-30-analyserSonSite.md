@@ -30,9 +30,11 @@ Le calcul est Open Source, et peut être utilisé :
 
 [En savoir plus sur son fonctionnement](http://www.ecoindex.fr/quest-ce-que-ecoindex/)
 
+Selon le type de site réalisé, il est plus ou moins aisé d'avoir une bonne note. La page d'accueil d'un moteur de recherche peut être très sobre et obtenir un bon score, alors que ce sera plus difficile sur la page d'accueil d'un site d'information. Un site d'information peut en revanche tenter d'avoir le meilleur score possible.
+
 Comparaison des moteurs de recherche (testé en mai 2021)
 
-| Moteur          | Score           | Note            |
+| Moteur de recherche         | Score           | Note            |
 | --------------- | --------------- | --------------- |
 | Qwant           | 79              | A |
 | DuckDuckGo      | 79 | A |
@@ -42,4 +44,16 @@ Comparaison des moteurs de recherche (testé en mai 2021)
 |    Bing         |    32    | E   |
 |    Yahoo        |    20    | F   |
 
+Comparaison des sites d'informations (testé en mai 2021)
 
+| Moteur          | Score           | Note            |
+| --------------- | --------------- | --------------- |
+| Mediapart          | 42 | D |
+| Franceinfo          | 47 | D |
+| L'équipe          | 47 | D |
+|    Slate       |    32    | E |
+|    20minutes       |    26    | E |
+|    Libération       |    22    | E |
+|    Le Monde         |    18    | F |
+|    Le parisien         |    5    | G   |
+|    Le Figaro        |    0    | G   |
