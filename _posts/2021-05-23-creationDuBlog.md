@@ -3,6 +3,7 @@ title: Création du blog
 description: Création du blog sur l'usage raisonné du numérique et du numérique responsable
 permalink: /creation-du-blog/
 layout: post
+tags: tech, public
 ---
 
 C'est parti ! 
