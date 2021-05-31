@@ -1,8 +1,8 @@
 # Liens sur les solutions/actions à apporter concernant le climat
 
 A l'échelle individuelle il est possible de répondre à ces problématiques de différentes manières.
-Il est toutefois important de connaitre nos actions les plus polluantes pour que nos efforts soient le plus utile possible.
-En effet, beaucoup de français ne connaissent pas les échelles de grandeurs et vont des efforts pour des gains minimes.
+Il est toutefois important de connaître nos actions les plus polluantes pour que nos efforts soient le plus utile possible.
+En effet, beaucoup de Français ne connaissent pas les échelles de grandeurs et vont des efforts pour des gains minimes.
 La première action à mener est donc de faire son bilan carbone et s'informer sur les actions les plus importantes.
 
 ## Faire son bilan carbone
