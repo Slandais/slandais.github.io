@@ -17,14 +17,14 @@ Afin d'éviter le renouvellement fréquent des smartphones, il faut allonger leu
 Pour ce faire plusieurs options sont envisageables : achat d'un téléphone durable et réparable, achat d'un téléphone d'occasion ou encore la location.
 Enfin, protégez votre téléphone avec une bonne coque et un film de protection d'écran en verre trempé.
 
-## Smartphone ou téléphone
+### Smartphone ou téléphone
 
 L'empreinte carbone d'un smartphone est supérieure à celle d'un simple téléphone portable.
 Est-ce qu'un simple téléphone portable ne suffirait-il pas à vos besoins ?
 
 Sachez toutefois que l'empreinte carbone d'un smartphone est inférieure à tous les objets qu'il peut remplacer : appareil photo, baladeur Mp3, GPS, console de jeu portable, etc. Il est préférable de prendre un bon smartphone remplaçant tous ces usages plutôt que d'acheter ces différents objets : prévoyez peut-être plus d'espace disque. Un smartphone avec 64Go sera plus polyvalent et fera par exemple un bien meilleur baladeur MP3 que celui avec seulement 32Go (il est plus écologique d'écouter la musique stockée sur le téléphone plutôt que de la lire en streaming).
 
-## Double carte SIM
+### Double carte SIM
 
 Vous avez besoin d'un téléphone pro et perso ? Prenez un unique téléphone pouvant prendre deux cartes SIM. Ou demandez à votre employeur un smartphone de ce type.
 
@@ -50,13 +50,13 @@ Vous voulez acheter neuf ? Privilégiez le matériel durable et réparable. Un s
 
 En France, l'indice de réparabilité permet d'obtenir une note sur des produits, dont les smartphones, afin d'évaluer leur réparabilité. La durabilité n'est en revanche pas prise en compte.
 
-* [Site internet de l'incide de réparabilité](https://www.indicereparabilite.fr/)
+* [Site internet de l'incide de réparabilité](https://www.indicereparabilite.fr/appareils/smartphone/?orderby=rating)
 
 ### Indice de réparabilité de iFixit
 
-iFixit est un site Internet spécialisé dans la réparation de nos appareils. Ils ont élaborés leur propre indice de réparabilité.
+iFixit est un site Internet spécialisé dans la réparation de nos appareils. Ils ont élaboré leur propre indice de réparabilité.
 
-* [Indice de réparabilité de iFixit](https://fr.ifixit.com/smartphone-repairability)
+* [Indice de réparabilité de iFixit](https://fr.ifixit.com/smartphone-repairability?sort=score)
 
 ### Le Fairphone
 
@@ -79,3 +79,5 @@ En cas de panne matérielle, c'est donc à Commown que revient la charge financi
 
 ### Réparer son smartphone
 
+* [iFixit](https://fr.ifixit.com/)
+* [SosAv](https://www.sosav.fr/)
