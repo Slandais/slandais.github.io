@@ -1,8 +1,11 @@
 - name: Accueil
   link: /
 
-- name: Blog
-  link: /blog
+- name: Blog grand public
+  link: /blog-grand-public
+  
+- name: Blog tech
+  link: /blog-tech
 
 - name: A propos
   link: /a-propos
