@@ -6,15 +6,15 @@
 
 [Calculer les émissions de carbone de vos trajets](https://agirpourlatransition.ademe.fr/particuliers/calculer-emissions-carbone-trajets)
 
-* 2. Encourager activement la mobilité douce de ses collaborateurs, l'usage des transport en commun, ou le co-voiturage
+* 2. Encourager activement la mobilité douce de ses collaborateurs, l'usage des transports en commun, ou le covoiturage
 
 [Calculer les émissions de carbone de vos trajets](https://agirpourlatransition.ademe.fr/particuliers/calculer-emissions-carbone-trajets)
 
-* 3. Promouvoir l'eco-conduite
+* 3. Promouvoir l'écoconduite
 
 [Les bons plans pour moins consommer de carburant](https://agirpourlatransition.ademe.fr/particuliers/bureau/deplacements/bons-plans-moins-consommer-carburant)
 
 ## Agir sur le matériel numérique
 
-* 1. Proposer des téléphones portables pro avec 2 cartes SIM. Cela permet au collaboration d'éviter d'acheter un téléphoner personnel (80kg d'eqCO2). Cette suggestion fait partie des préconisations du Shift Project.
+* 1. Proposer des téléphones portables professionnels avec 2 cartes SIM. Cela permet aux collaborateurs d'éviter d'acheter un téléphone personnel (80kg d'eqCO2). Cette suggestion fait partie des préconisations du Shift Project.
 
