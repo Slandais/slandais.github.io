@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog Tect
-permalink: /blog-tech/
+permalink: /blog-grand-public/
 ---
 
 {% for post in site.categories.grand-public %}
