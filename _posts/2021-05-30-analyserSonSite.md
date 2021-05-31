@@ -55,5 +55,6 @@ Comparaison des sites d'informations (testé en mai 2021)
 |    20minutes       |    26    | E |
 |    Libération       |    22    | E |
 |    Le Monde         |    18    | F |
+|    Le point         |    6    | F   |
 |    Le parisien         |    5    | G   |
 |    Le Figaro        |    0    | G   |
