@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Blog Tect
-permalink: /blog-tech/
+permalink: /blog/
 ---
 
-{% for post in site.categories.tech %}
+{% for post in site.posts %}
   <p><a href="{{ post.url }}">{{ post.title }}</a><br>
   {{ post.description }}<br>
   
