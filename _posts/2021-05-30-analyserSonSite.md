@@ -31,6 +31,13 @@ Le calcul est Open Source, et peut être utilisé :
 [En savoir plus sur son fonctionnement](http://www.ecoindex.fr/quest-ce-que-ecoindex/)
 
 Comparaison des moteurs de recherche (testé en mai 2021)
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+
 |Moteur|Score|Note|
 |    Qwant  |    79    | A |
 |    DuckDuckGo  |    79    | A |
