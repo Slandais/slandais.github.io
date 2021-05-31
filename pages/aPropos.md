@@ -1,9 +1,9 @@
 ---
-title: A propos
+title: À propos
 permalink: /a-propos/
 layout: default
 ---
 
-# A propos
+# À propos
 
 Ce site est réalisé avec GitHub Pages, Jekyll et SimpleCSS.
