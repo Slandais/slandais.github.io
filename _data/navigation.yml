@@ -1,5 +1,8 @@
 - name: Accueil
   link: /
+  
+  - name: Doc
+  link: /doc
 
 - name: Blog grand public
   link: /blog-grand-public
