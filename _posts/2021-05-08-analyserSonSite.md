@@ -36,9 +36,9 @@ Comparaison des moteurs de recherche (testé en mai 2021)
 
 | Moteur de recherche         | Score           | Note            |
 | --------------- | --------------- | --------------- |
-| Qwant           | 79              | A |
+| Qwant           | 79              | A{.ecoIndexA} |
 | DuckDuckGo      | 79 | A |
-| Ecosia          | 68 | B |
+| Ecosia          | 68 | B{.ecoIndexB} |
 |    Google       |    75    | B |
 |    Lilo         |    43    | D |
 |    Bing         |    32    | E   |
