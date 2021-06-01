@@ -3,6 +3,7 @@ title: Comment est fait ce site ?
 description: Présentation des outils techniques (stack technique) utilisés pour réaliser le site www.numerique-raisonne.fr
 layout: post
 category: tech
+tags:[site internet]
 ---
 
 # Site statique
