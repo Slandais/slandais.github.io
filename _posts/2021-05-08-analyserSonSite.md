@@ -32,18 +32,14 @@ Le calcul est Open Source, et peut être utilisé avec :
 
 Selon le type de site réalisé, il est plus ou moins aisé d'avoir une bonne note. La page d'accueil d'un moteur de recherche peut être très sobre et obtenir un bon score, alors que ce sera plus difficile sur la page d'accueil d'un site d'information. Un site d'information peut en revanche tenter d'avoir le meilleur score possible.
 
-Comparaison des moteurs de recherche (testé en mai 2021)
-
-{% include ecoIndex.html note="A" %}
-<p>test</p>{:.ecoIndexA}
-test2{:.ecoIndexA}
+Comparaison des moteurs de recherche (testé en mai 2021)     
 
 | Moteur de recherche         | Score           | Note            |
 | --------------- | --------------- | --------------- |
-| Qwant           | 79              | A{.ecoIndexA} |
-| DuckDuckGo      | 79 | <p>test</p>{:.ecoIndexA} |
-| Ecosia          | 68 | B{.ecoIndexB} |
-|    Google       |    75    | |
+| Qwant           | 79              | A |
+| DuckDuckGo      | 79 | A |
+| Ecosia          | 68 | B |
+|    Google       |    75    | C |
 |    Lilo         |    43    | D |
 |    Bing         |    32    | E   |
 |    Yahoo        |    20    | F   |
