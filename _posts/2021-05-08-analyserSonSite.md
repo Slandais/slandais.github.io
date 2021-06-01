@@ -15,7 +15,7 @@ WebsiteCarbon donne une estimation de l'empreinte carbone de l'URL donnée.
 
 * [WebsiteCarbon](https://www.websitecarbon.com)
 
-## 3 outils pour mesurer la performance/vitesse de votre site
+## Outils pour mesurer la performance/vitesse de votre site
 
 * [GTMetrix](https://gtmetrix.com)
 * [Pingdom Tools](https://tools.pingdom.com)
