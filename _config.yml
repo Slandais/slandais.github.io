@@ -12,6 +12,7 @@ locale: fr_FR
 url: "https://www.numerique-raisonne.fr"
 baseurl: ""
 markdown: kramdown
+include: [_pages]
 
 # RSS feeds
 feed:
