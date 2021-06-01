@@ -7,14 +7,18 @@ permalink: /tags/
 {% assign sortedTags = site.tags | sort %}
 {% for tag in sortedTags %}
 
-<a href="#{{tag[0]}}">{{ tag[0] | replace: "-", "&nbsp;" }}&nbsp;({{ tag[1] | size }})</a>
+  <a href="#{{tag[0]}}">{{ tag[0] | replace: "-", "&nbsp;" }}&nbsp;({{ tag[1] | size }})</a>
 
 {% endfor %}
 
-<h2 id="{{ tag[0] }}">{{ tag[0] | replace: "-", "&nbsp;" }</h2>
+{% for tag in sortedTags %}
 
-{% for post in tag[1] %}
+  <h2 id="{{ tag[0] }}">{{ tag[0] | replace: "-", "&nbsp;" }</h2>
 
-<a href="{{ post.url }}" title="{{ post.title }}">{{post.title}}</a>
+  {% for post in tag[1] %}
+
+    <a href="{{ post.url }}" title="{{ post.title }}">{{post.title}}</a>
+
+  {% endfor %}
 
 {% endfor %}
