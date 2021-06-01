@@ -8,7 +8,7 @@ layout: default
 
 ## Objectif
 
-Ce site a pour objectif de communiquer sur les impacts environnementaux du numériques. Et de regrouper des moyens d'agir à la fois pour le grand public que pour les professionnels du secteur informatique.
+Ce site a pour objectif de communiquer sur les impacts environnementaux du numérique. Et de regrouper des moyens d'agir à la fois pour le grand public que pour les professionnels du secteur informatique.
 
 ## Comment est fait ce site
 
