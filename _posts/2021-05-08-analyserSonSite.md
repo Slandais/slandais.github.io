@@ -34,12 +34,14 @@ Selon le type de site réalisé, il est plus ou moins aisé d'avoir une bonne no
 
 Comparaison des moteurs de recherche (testé en mai 2021)
 
+{% include ecoIndex.html note="A" %}
+
 | Moteur de recherche         | Score           | Note            |
 | --------------- | --------------- | --------------- |
 | Qwant           | 79              | A{.ecoIndexA} |
-| DuckDuckGo      | 79 | {% include ecoIndex.html note="A" %} |
+| DuckDuckGo      | 79 |  |
 | Ecosia          | 68 | B{.ecoIndexB} |
-|    Google       |    75    | {% include ecoIndex.html note="B" %} |
+|    Google       |    75    | |
 |    Lilo         |    43    | D |
 |    Bing         |    32    | E   |
 |    Yahoo        |    20    | F   |
