@@ -1,6 +1,6 @@
 ---
 title: À propos
-permalink: /a-propos/
+permalink: /a-propos
 layout: default
 ---
 
