@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Blog Tect
-permalink: /blog/
+title: Tags
+permalink: /tags/
 ---
 
 {% assign sortedTags = site.tags | sort %}
