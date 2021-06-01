@@ -25,9 +25,7 @@ layout: default
 
         {% for tag in page.tags %}
 
-{{tag}}
-
-          <a href="#{{tag[0]}}">{{ tag[0] | replace: "-", "&nbsp;" }}&nbsp;({{ tag[1] | size }})</a>
+          <a href="#{{tag}}">{{ tag | replace: "-", "&nbsp;" }}&nbsp;({{ tag | size }})</a>
 
         {% endfor %}
 
