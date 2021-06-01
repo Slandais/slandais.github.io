@@ -15,7 +15,7 @@ permalink: /tags/
 
   <h2 id="{{ tag[0] }}">{{ tag[0] | replace: "-", "&nbsp;" }}</h2>
   
-  {% for post in tag[1] %}
+  {% for post in tag[0] %}
     <a href="{{ post.url }}" title="{{ post.title }}">{{post.title}}</a>
   {% endfor %}
 
