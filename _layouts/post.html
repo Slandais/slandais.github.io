@@ -20,4 +20,10 @@ layout: default
 {% endcase %}
 {{ page.date | date: "%Y" }}</p>
 
+{% for tag in page.tags %}
+
+  <a href="#{{tag[0]}}">{{ tag[0] | replace: "-", "&nbsp;" }}&nbsp;({{ tag[1] | size }})</a>
+
+{% endfor %}
+
 {{ content }}
