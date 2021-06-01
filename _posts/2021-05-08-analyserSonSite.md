@@ -41,7 +41,7 @@ test2{:.ecoIndexA}
 | Moteur de recherche         | Score           | Note            |
 | --------------- | --------------- | --------------- |
 | Qwant           | 79              | A{.ecoIndexA} |
-| DuckDuckGo      | 79 |  |
+| DuckDuckGo      | 79 | <p>test</p>{:.ecoIndexA} |
 | Ecosia          | 68 | B{.ecoIndexB} |
 |    Google       |    75    | |
 |    Lilo         |    43    | D |
