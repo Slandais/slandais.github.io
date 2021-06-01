@@ -9,6 +9,8 @@ tags: [site internet, ecoindex]
 
 # Quel est l'EcoIndex du site Numérique Raisonné ?
 
+J'ai écris [un précédent article présentant l'EcoIndex](/analyser-impact-environnement-site-internet/). Le voici appliqué au site numerique-raisonne.fr ;
+
 ![EcoIndex du site Numérique Raisonné](../assets/images/ecoIndexNumeriqueRaisonne.jpg "EcoIndex du site Numérique Raisonné")
 
 # En savoir plus
