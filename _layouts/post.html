@@ -21,12 +21,7 @@ layout: default
 {{ page.date | date: "%Y" }}</p>
 
 {% for tag in site.tags %}
-<a
-    class="tag"
-    href="/tag/{{ tag }}"
-    title="{{ site.data.tagDescriptions[tag] }}">
     {{ tag }}
-</a>
 {% endfor %}
 
 {{ content }}
