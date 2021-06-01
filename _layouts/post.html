@@ -20,9 +20,9 @@ layout: default
 {% endcase %}
 {{ page.date | date: "%Y" }}</p>
 
-{% if post.tags.size > 0 %}
-  Tag{% if post.tags.size > 1 %}s{% endif %}:
-  {{ post.tags | sort | join: ", " }}
+{% if page.tags.size > 0 %}
+  Tag{% if page.tags.size > 1 %}s{% endif %}:
+  {{ page.tags | sort | join: ", " }}
 {% endif %}
 
 {{ content }}
