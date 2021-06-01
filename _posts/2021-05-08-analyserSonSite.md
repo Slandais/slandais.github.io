@@ -13,7 +13,14 @@ tags: [site internet]
 
 WebsiteCarbon donne une estimation de l'empreinte carbone de l'URL donnée.
 
-* [WebsiteCarbon](https://www.websitecarbon.com/)
+* [WebsiteCarbon](https://www.websitecarbon.com)
+
+## 3 outils pour mesurer la performance/vitesse de votre site
+
+* [GTMetrix](https://gtmetrix.com)
+* [Pingdom Tools](https://tools.pingdom.com)
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=fr)
+* [FastorSlow](https://www.fastorslow.com)
 
 ## EcoIndex
 
@@ -24,11 +31,11 @@ L'ecoindex est un outil indiquant :
 * l’empreinte environnementale associée (empreinte carbone, consommation d'eau etc.)
 
 Le calcul est Open Source, et peut être utilisé avec :
-* [Une extension dans votre navigateur](http://www.ecoindex.fr/)
+* [Une extension dans votre navigateur](http://www.ecoindex.fr)
 * [Cette ligne de commande](https://github.com/cnumr/ecoindex_cli)
-* [Ce simulateur en ligne](https://rachelwe.github.io/Simulateur-ecoindex/)
+* [Ce simulateur en ligne](https://rachelwe.github.io/Simulateur-ecoindex)
 
-[En savoir plus sur son fonctionnement](http://www.ecoindex.fr/quest-ce-que-ecoindex/)
+[En savoir plus sur son fonctionnement](http://www.ecoindex.fr/quest-ce-que-ecoindex)
 
 Selon le type de site réalisé, il est plus ou moins aisé d'avoir une bonne note. La page d'accueil d'un moteur de recherche peut être très sobre et obtenir un bon score, alors que ce sera plus difficile sur la page d'accueil d'un site d'information. Un site d'information peut en revanche tenter d'avoir le meilleur score possible.
 
@@ -58,3 +65,16 @@ Comparaison des sites d'informations (testé en mai 2021)
 |    Le Point         |    6    | F   |
 |    Le Parisien         |    5    | G   |
 |    Le Figaro        |    0    | G   |
+
+Quelques sites remarquables ayant une note à A ou B :
+
+| Site          |  Note            |
+| --------------- | --------------- | --------------- |
+| [Gouvernement Britannique](https://www.gov.uk)          | A |
+| [Solar Low Tech Magazine](https://solar.lowtechmagazine.com)          | A |
+| [Low Tech Lab](https://lowtechlab.org/fr)           | B |
+| [Website Carbon](https://www.websitecarbon.com) |  B |
+
+# En savoir plus
+
+* [Evaluer l'empreinte environnementale de votre site Internet - FranceNum](https://www.francenum.gouv.fr/comprendre-le-numerique/evaluer-lempreinte-environnementale-de-votre-site-internet)
