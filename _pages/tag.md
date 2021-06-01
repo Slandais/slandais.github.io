@@ -14,6 +14,9 @@ permalink: /tags/
 {% for tag in sortedTags %}
 
   <h2 id="{{ tag[0] }}">{{ tag[0] | replace: "-", "&nbsp;" }}</h2>
-
+  
+  {% for post in tag[1] %}
+    <a href="{{ post.url }}" title="{{ post.title }}">{{post.title}}</a>
+  {% endfor %}
 
 {% endfor %}
