@@ -9,7 +9,7 @@ tags: [site internet, ecoindex]
 
 # Quel est l'EcoIndex du site Numérique Raisonné ?
 
-![EcoIndex du site Numérique Raisonné](../assets/ecoIndexNumeriqueRaisonne.jpg "EcoIndex du site Numérique Raisonné")
+![EcoIndex du site Numérique Raisonné](../assets/images/ecoIndexNumeriqueRaisonne.jpg "EcoIndex du site Numérique Raisonné")
 
 # En savoir plus
 
