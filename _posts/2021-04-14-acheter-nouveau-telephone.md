@@ -3,7 +3,7 @@ title: Où acheter un nouveau téléphone ?
 description: Où acheter un nouveau téléphone respectueux de l'environnement ?
 layout: post
 category: grand-public
-tags: [smartphone]
+tags: smartphone
 ---
 
 # Où acheter un nouveau téléphone ?
