@@ -20,7 +20,8 @@ sass:
     style: compressed
 
 compress_html:
-  clippings: [head, meta, header, main, link, title, a, div, p, ul, li, table, tr, th, td, h1, h2, h3, h4, h5, h6, h7]
+  # On n'utilise pas all dans clippings car c'est KO avec la balise main
+  clippings: [head, meta, header, footer, link, title, a, div, p, ul, li, table, tr, th, td, h1, h2, h3, h4, h5, h6, h7]
   comments:  ["<!-- ", " -->"]
   startings: [html, head, body]
   endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
