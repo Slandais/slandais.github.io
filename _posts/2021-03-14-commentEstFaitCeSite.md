@@ -54,3 +54,8 @@ Comparatifs d'autres frameworks sans classes :
 
 Si vous, ou des éditeurs du site, n'êtes pas à l'aise avec le fait d'écrire des articles/pages en Mardown, alors il est possible d'utiliser un outil tel que [Forestry](https://forestry.io/) qui permet de gérer le contenu comme on le ferait dans un CMS Wordpress ou Drupal.
 Forestry s'occupe alors de faire les actions dans git.
+
+# En savoir plus 
+
+* [Getting Started with Jekyll and GitHub Pages: Your First Website](https://www.aleksandrhovhannisyan.com/blog/getting-started-with-jekyll-and-github-pages/)
+* [How To Build A Jekyll Site Using Simple.css](https://kevq.uk/how-to-build-jekyll-site-simple-css/)
