@@ -20,7 +20,7 @@ sass:
     style: compressed
 
 compress_html:
-  clippings: all
+  clippings: [div, p, ul, td, h1, h2]
   comments: [""]
   startings: []
   endings: []
