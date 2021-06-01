@@ -13,7 +13,7 @@ permalink: /tags/
 
 {% for tag in sortedTags %}
 
-  <h2 id="{{ tag[0] }}">{{ tag[0] | replace: "-", "&nbsp;" }</h2>
+  <h2 id="{{ tag[0] }}">{{ tag[0] | replace: "-", "&nbsp;" }}</h2>
 
 
 {% endfor %}
