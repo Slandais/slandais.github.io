@@ -20,10 +20,9 @@ layout: default
 {% endcase %}
 {{ page.date | date: "%Y" }}</p>
 
-{% for tag in page.tags %}
-
-  <a href="/tags#{{tag[0]}}">{{ tag[0] | replace: "-", "&nbsp;" }}&nbsp;({{ tag[1] | size }})</a>
-
-{% endfor %}
+{% if post.tags.size > 0 %}
+  Tag{% if post.tags.size > 1 %}s{% endif %}:
+  {{ post.tags | sort | join: ", " }}
+{% endif %}
 
 {{ content }}
