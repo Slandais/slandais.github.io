@@ -14,6 +14,23 @@ baseurl: ""
 markdown: kramdown
 include: [_pages]
 
+defaults:
+  -
+    scope:
+      type: posts
+      path: _posts
+    values:
+      is_post: true
+      layout: post
+      permalink: /:title/
+  -
+    scope:
+      type: pages
+      path: _pages
+    values:
+      is_post: false
+      layout: default
+
 # RSS feeds
 feed:
   posts_limit: 20
