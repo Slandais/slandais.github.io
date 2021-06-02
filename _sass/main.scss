@@ -26,3 +26,8 @@
   --marked: #FFDD33;
   --disabled: #EFEFEF;
 }
+
+nav a {
+  border: --accent;
+  text: --accent;
+}
