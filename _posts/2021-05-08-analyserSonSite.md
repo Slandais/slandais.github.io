@@ -74,7 +74,9 @@ Quelques sites remarquables ayant une note à A ou B, juste pour montrer qu'il e
 | [Solar Low Tech Magazine](https://solar.lowtechmagazine.com)          | A |
 | [Textpattern](https://textpattern.com/)          | A |
 | [Website Monitoring](https://www.appbeat.io/)          | A |
-| [Remixd](https://www.remixd.com/)          | A |
+| [Remixd](https://www.remixd.com)          | A |
+| [Studio Colibri](https://www.studiocolibri.be)          | A |
+| [Cleanfox](https://www.cleanfox.io)          | A |
 | [Low Tech Lab](https://lowtechlab.org/fr)           | B |
 | [Website Carbon](https://www.websitecarbon.com) |  B |
 
