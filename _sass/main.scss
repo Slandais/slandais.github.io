@@ -28,6 +28,10 @@
 }
 
 nav a {
-  border: --accent;
-  text: --accent;
+  border: var(--accent;)
+  text: var(--accent);
+}
+
+.ecoIndexA {
+  color: green;
 }
