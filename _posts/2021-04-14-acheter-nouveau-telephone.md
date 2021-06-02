@@ -45,18 +45,31 @@ Les smartphones d'occasion ou reconditionnés sont des produits de secondes main
 ## Acheter neuf : choisir du matériel durable et réparable
 
 Vous voulez acheter neuf ? Privilégiez le matériel durable et réparable. Un smartphone réparable c'est bien, un smartphone solide qui ne casse pas et ne tombe pas en panne c'est mieux.
+Plusieurs indices existent et se completent entre eux puisqu'ils n'ont pas la même grille d'évaluation les notes varient d'un indice à l'autre.
+* [Article comparant les indices français et iFixit](https://www.lesnumeriques.com/vie-du-net/ifixit-vs-indice-de-reparabilite-deux-approches-pour-un-meme-probleme-n160205.html)
 
 ### Indice de réparabilité en français
 
 En France, l'indice de réparabilité permet d'obtenir une note sur des produits, dont les smartphones, afin d'évaluer leur réparabilité. La durabilité n'est en revanche pas prise en compte.
+L'indice de réparabilité français tiens compte des réparateurs tiers, le smartphone peut être difficilement réparable par vos soins, mais l'être facilement chez un réparateur professionnel, dans ce cas il aura une bonne note.
+L'indice de réparabilité français tient aussi davantage compte de la documentation, de la disponibilité des pièces, de la publication des prix des pièces etc... Cet indice bénéficie donc aux plus grosses structures capablent de mettre en place cette logistique.
 
 * [Site internet de l'incide de réparabilité](https://www.indicereparabilite.fr/appareils/smartphone/?orderby=rating)
 
 ### Indice de réparabilité de iFixit
 
 iFixit est un site Internet spécialisé dans la réparation de nos appareils. Ils ont élaboré leur propre indice de réparabilité.
+L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'est à dire celle faisable par vous même sans devoir aller voir un réparateur professionel.
 
 * [Indice de réparabilité de iFixit](https://fr.ifixit.com/smartphone-repairability?sort=score)
+
+### EcoRating
+
+L'EcoRating est un indice créé par les acteurs de la téléphonie. Il sera utilisé à partir de juin 2021. L'un de ses avantages est d'être plus large qu'un indice de réparabilité, en tenant compte aussi de la durabilité, de la recyclabilité, de la préservation des ressources et de la présenvation du climat (son empreinte carbone). Son inconvénient est qu'il s'agit d'un indice auto-évalué.
+
+* [Site Internet de l'EcoRating](https://www.ecoratingdevices.com)
+* [Article de numerama](https://www.numerama.com/sciences/714949-leco-rating-peut-il-chiffrer-precisement-lempreinte-carbone-des-smartphones.html)
+* [Article des numériques](https://www.lesnumeriques.com/telephone-portable/eco-rating-un-nouvel-indice-environnemental-par-et-pour-les-acteurs-de-la-telephonie-n164407.html)
 
 ### Le Fairphone
 
