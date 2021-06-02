@@ -66,12 +66,14 @@ Comparaison des sites d'informations (testé en mai 2021)
 |    Le Parisien         |    5    | G   |
 |    Le Figaro        |    0    | G   |
 
-Quelques sites remarquables ayant une note à A ou B :
+Quelques sites remarquables ayant une note à A ou B, juste pour montrer qu'il est possible de faire un site esthétique et fonctionnel tout en conservant un bon EcoIndex.
 
 | Site          |  Note            |
 | --------------- | --------------- | --------------- |
 | [Gouvernement Britannique](https://www.gov.uk)          | A |
 | [Solar Low Tech Magazine](https://solar.lowtechmagazine.com)          | A |
+| [Textpattern](https://textpattern.com/)          | A |
+| [Website Monitoring](https://www.appbeat.io/)          | A |
 | [Low Tech Lab](https://lowtechlab.org/fr)           | B |
 | [Website Carbon](https://www.websitecarbon.com) |  B |
 
