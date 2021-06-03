@@ -11,7 +11,7 @@ layout: default
   method="POST"
 >
   <p>
-  <label>Votre email</label><br/>
+  <label>Votre email :</label><br/>
     <input type="email" name="_replyto">
   </p>
   <p>
