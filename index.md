@@ -7,7 +7,7 @@ title: Numérique raisonné
 
 ## Documentation
 
-[Documentation sur le réchauffement climatique et les impacts environnementaux du numérique](./doc)
+[Documentation sur les impacts environnementaux du numérique](./doc)
 
 ## Blogs
 
