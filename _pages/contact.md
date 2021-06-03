@@ -11,16 +11,12 @@ layout: default
   method="POST"
 >
   <p>
-  <label>
-    Your email:
+  <label>Votre email</label><br/>
     <input type="email" name="_replyto">
-  </label>
   </p>
   <p>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
+   <label>Votre message :</label><br/>
+   <textarea name="message"></textarea>
   </p>
 
   <!-- your other form fields go here -->
