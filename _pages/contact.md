@@ -1,3 +1,10 @@
+---
+title: À propos
+permalink: /a-propos
+layout: default
+---
+
+
 <form
   action="https://formspree.io/f/xqkwqwdd"
   method="POST"
