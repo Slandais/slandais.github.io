@@ -12,3 +12,6 @@
 
 - name: A propos
   link: /a-propos
+
+- name: Contact
+  link: /contact
