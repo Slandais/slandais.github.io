@@ -1,6 +1,6 @@
 ---
-title: À propos
-permalink: /a-propos
+title: Contact
+permalink: /contact
 layout: default
 ---
 
