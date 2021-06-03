@@ -16,7 +16,7 @@ layout: default
   </p>
   <p>
    <label>Votre message :</label><br/>
-   <textarea name="message" cols="60" rows="10"></textarea>
+   <textarea name="message" cols="80"></textarea>
   </p>
 
   <!-- your other form fields go here -->
