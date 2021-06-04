@@ -1,3 +1,7 @@
+---
+layout: default
+title: Liens sur le numérique responsable
+---
 # Liens sur le numérique responsable
 
 ## S'informer en ligne
