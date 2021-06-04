@@ -6,7 +6,7 @@ permalink: /doc/
 
 # Accueil
 
-Documentation sur le réchauffement climatique et les impacts environnementaux du numérique
+Documentation sur les impacts environnementaux du numérique
 
 ## Sommaire
 
@@ -16,6 +16,10 @@ Documentation sur le réchauffement climatique et les impacts environnementaux d
 
 * [L'effet de serre](./effetDeSerre.md)
 * [Liens sur les problématiques du climat](./liensClimatProblemes.md)
+
+#### Consommation de matière non-renouvelable
+
+#### Consommation d'eau
 
 #### En savoir plus
 
