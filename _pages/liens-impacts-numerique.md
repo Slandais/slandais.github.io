@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Liens sur les impacts du numérique
+permalink: /liens-impacts-numerique/
 ---
 # Liens sur les impacts du numérique
 
