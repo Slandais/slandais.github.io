@@ -15,7 +15,7 @@ Documentation sur les impacts environnementaux du numérique
 #### Réchauffement climatique
 
 * [L'effet de serre](./effetDeSerre.md)
-* [Liens sur les problématiques du climat](./liensClimatProblemes.md)
+* [Liens sur dérèglement climatique](/liens-dereglement-climatique/)
 
 #### Consommation de matière non-renouvelable
 
@@ -23,7 +23,7 @@ Documentation sur les impacts environnementaux du numérique
 
 #### En savoir plus
 
-* [Liens sur l'impact du numérique](./liensNumeriqueProblemes.md)
+* [Liens sur les impacts du numérique](/liens-impacts-numerique)
 
 ### Agir
 
@@ -37,7 +37,7 @@ Documentation sur les impacts environnementaux du numérique
 
 ##### Agir sur les impacts des salariés
 
-* [Agir sur les impacts des salariés](./liensActionsSalaries.md)
+* [Agir sur les impacts des salariés](/liens-actions-salaries/)
 
 ##### Agir sur les impacts de ses clients
 
@@ -45,4 +45,4 @@ Documentation sur les impacts environnementaux du numérique
 
 ###### Eco-Conception 
 
-* [Liens sur le numérique responsable](./liensNumeriqueSolutions.md)
+* [Liens sur le numérique responsable](/liens-numerique-responsable/)
