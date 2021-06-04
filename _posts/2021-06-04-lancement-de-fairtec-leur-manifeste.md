@@ -5,10 +5,7 @@ description: FairTEC est un collectif d'acteurs engagés au service de la sobri�
 permalink: lancement-fair-tech-leur-manifest
 layout: post
 category: grand-public
-tags:
-- manifeste
-- fairtech
-
+tags: [commown, telecoop, fairphone, fairtec, manifeste]
 ---
 Commown, TeleCoop, Fairphone et d'autres acteurs engagés au service de la sobriété numérique ont lancé Fair TEC.
 
