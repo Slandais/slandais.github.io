@@ -1,3 +1,7 @@
+---
+layout: default
+title: Liens sur les impacts du numérique
+---
 # Liens sur les impacts du numérique
 
 ## Sites & blogs
