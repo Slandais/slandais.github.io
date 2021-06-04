@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Liens sur le numérique responsable
+permalink: /liens-numerique-responsable/
 ---
 # Liens sur le numérique responsable
 
