@@ -1,4 +1,9 @@
-# Liens sur les problématiques du climat
+---
+layout: default
+title: Liens dérèglement climatique
+permalink: /liens-dereglement-climatique/
+---
+# Liens sur le dérèglement climatique
 
 * [Site Internet de Jean-Marc Jancovici](https://jancovici.com/)
 * [Site Internet "Bon pote"](https://bonpote.com/)
