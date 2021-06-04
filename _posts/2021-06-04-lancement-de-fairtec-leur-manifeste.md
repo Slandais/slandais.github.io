@@ -10,4 +10,8 @@ tags:
 - fairtech
 
 ---
-L
+Commown, TeleCoop, Fairphone et d'autres acteurs engagés au service de la sobriété numérique ont lancé Fair TEC.
+
+[Cliquez ici pour lire leur manifeste]()
+
+A suivre !
