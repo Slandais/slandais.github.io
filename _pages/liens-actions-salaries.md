@@ -1,3 +1,8 @@
+---
+layout: default
+title: Liens sur le numérique responsable
+permalink: /liens-actions-salaries/
+---
 # Liens sur les actions des salariés
 
 ## Agir sur les transports
