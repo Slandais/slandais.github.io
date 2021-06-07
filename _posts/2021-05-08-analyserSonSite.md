@@ -69,9 +69,9 @@ Comparaison des sites d'informations (testé en mai 2021)
 Quelques sites remarquables ayant une note à A ou B, juste pour montrer qu'il est possible de faire un site esthétique et fonctionnel tout en conservant un bon EcoIndex.
 
 | Site          |  Note            |
-| --------------- | --------------- | --------------- |
+| --------------- | --------------- | 
 | [Gouvernement Britannique](https://www.gov.uk)          | A |
-| [Institut National de l'Énergie Solaire](https://www.ines-solaire.org/)          | A |
+| [Institut National de l'Énergie Solaire](https://www.ines-solaire.org/) | A |
 | [Solar Low Tech Magazine](https://solar.lowtechmagazine.com)          | A |
 | [Textpattern](https://textpattern.com/)          | A |
 | [Website Monitoring](https://www.appbeat.io/)          | A |
