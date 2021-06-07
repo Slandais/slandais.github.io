@@ -22,7 +22,7 @@ Enfin, protégez votre téléphone avec une bonne coque et un film de protection
 L'empreinte carbone d'un smartphone est supérieure à celle d'un simple téléphone portable.
 Est-ce qu'un simple téléphone portable ne suffirait-il pas à vos besoins ?
 
-Sachez toutefois que l'empreinte carbone d'un smartphone est inférieure à tous les objets qu'il peut remplacer : appareil photo, baladeur Mp3, GPS, console de jeu portable, etc. Il est préférable de prendre un bon smartphone remplaçant tous ces usages plutôt que d'acheter ces différents objets : prévoyez peut-être plus d'espace disque. Un smartphone avec 64Go sera plus polyvalent et fera par exemple un bien meilleur baladeur MP3 que celui avec seulement 32Go (il est plus écologique d'écouter la musique stockée sur le téléphone plutôt que de la lire en streaming).
+Sachez toutefois que l'empreinte carbone d'un smartphone est inférieure à tous les objets qu'il peut remplacer : appareil photo, baladeur Mp3, GPS, réveil, console de jeu portable, etc. Il est préférable de prendre un bon smartphone remplaçant tous ces usages plutôt que d'acheter ces différents objets : prévoyez peut-être plus d'espace disque. Un smartphone avec 64Go sera plus polyvalent et fera par exemple un bien meilleur baladeur MP3 que celui avec seulement 32Go (il est plus écologique d'écouter la musique stockée sur le téléphone plutôt que de la lire en streaming).
 
 ### Double carte SIM
 
