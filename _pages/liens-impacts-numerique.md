@@ -27,6 +27,7 @@ permalink: /liens-impacts-numerique/
 * [Supprimer des mails pour sauver la planète, cette fausse bonne idée - L'envert du décor](https://deezer.page.link/bAw7ar42WhKTGVwr6)
 * [Le Bitcoin peut-il être écolo ? - L'envert du décor](https://deezer.page.link/qCxUsncv6BeTFUsR9)
 * [Peut-on critiquer la technologie sans être un Amish ? - L'envert du décor](https://deezer.page.link/SpTGQiDRsTuR5mAy7)
+* [(Dé)clics responsables](https://deezer.page.link/AZdPEpzXfd2LnGcE8)
 
 ## Vidéos en ligne
 
