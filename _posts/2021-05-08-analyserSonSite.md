@@ -77,6 +77,7 @@ Quelques sites remarquables ayant une note à A ou B, juste pour montrer qu'il e
 | [Website Monitoring](https://www.appbeat.io/)          | A |
 | [Remixd](https://www.remixd.com)          | A |
 | [Studio Colibri](https://www.studiocolibri.be)          | A |
+| [Angle Web](https://angleweb.fr)          | A |
 | [Cleanfox](https://www.cleanfox.io)          | A |
 | [FairTech](https://fairtec.io/)          | A |
 | [Low Tech Lab](https://lowtechlab.org/fr)           | B |
