@@ -71,6 +71,7 @@ Quelques sites remarquables ayant une note à A ou B, juste pour montrer qu'il e
 | Site          |  Note            |
 | --------------- | --------------- | --------------- |
 | [Gouvernement Britannique](https://www.gov.uk)          | A |
+| [Institut National de l'Énergie Solaire](https://www.ines-solaire.org/)          | A |
 | [Solar Low Tech Magazine](https://solar.lowtechmagazine.com)          | A |
 | [Textpattern](https://textpattern.com/)          | A |
 | [Website Monitoring](https://www.appbeat.io/)          | A |
