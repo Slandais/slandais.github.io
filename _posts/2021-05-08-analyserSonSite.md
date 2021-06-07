@@ -84,6 +84,7 @@ Quelques sites remarquables ayant une note à A ou B, juste pour montrer qu'il e
 | [Website Carbon](https://www.websitecarbon.com) |  B |
 | [Commown](https://commown.coop) |  B |
 | [TeleCoop](https://telecoop.fr) |  B |
+| [Fresque du numérique](https://fresquedunumerique.org/) |  B |
 
 # En savoir plus
 
