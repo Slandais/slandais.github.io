@@ -98,7 +98,7 @@ Le framework est un ordinateur qui mise sur l'auto-réparabilité, celui-ci se v
 
 ## Aller plus loin
 
-### Réparer son smartphone
+### Réparer son ordinateur
 
 * [iFixit](https://fr.ifixit.com/)
 * [SosAv](https://www.sosav.fr/)
