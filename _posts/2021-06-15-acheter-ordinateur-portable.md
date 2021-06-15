@@ -33,7 +33,7 @@ Mais les ordinateurs reconditionnés ont été contrôlés et vérifiés, les pi
 
 ### Quelques sites
 
-* [Don ordi](https://donordi.fr/ : de nombreuses associations proposent des ordinateurs reconditionnés à prix très réduit)
+* [Don ordi](https://donordi.fr/) : de nombreuses associations proposent des ordinateurs reconditionnés à prix très réduit)
 * [La bootique - Les ateliers du bocage](https://la-bootique.com/) Les ateliers du bocage sont une coopérative, entreprise adaptée et d’insertion, membre du mouvement Emmaüs.
 * [ReCommerce](https://www.recommerce.com/fr/) Pionier du reconditionnement, ils sous-traitent le reconditionnement en Europe de l'est.
 * [Back Market](https://www.backmarket.fr/) Back Market est une marketplace, c’est-à-dire qu'elle met en contacte les clients et les reconditionneurs basés partout dans le monde.
