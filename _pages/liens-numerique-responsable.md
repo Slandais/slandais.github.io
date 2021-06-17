@@ -74,6 +74,7 @@ permalink: /liens-numerique-responsable/
 * [Le low-tech Lab lance son site internet low-tech](https://lowtechlab.org/fr/actualites-blog/le-low-tech-lab-lance-son-site-internet-low-tech)
 * [Emmabuntüs](https://emmabuntus.org/)
 * [Image dithering](https://en.wikipedia.org/wiki/Dither)
+* [Dither it](https://ditherit.com/)
 
 ## Donner du matériel pour sa réutilisation
 
