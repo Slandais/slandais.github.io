@@ -15,6 +15,7 @@ permalink: /liens-numerique-responsable/
 * [GreenIt](https://www.greenit.fr/)
 * [Outils du Collectif GreenIt](https://collectif.greenit.fr/outils.html)
 * [Green Code Lab](https://www.greencodelab.org/)
+* [Institut du Numérique Responsable](https://institutnr.org)
 
 ## Livres
 
