@@ -67,11 +67,13 @@ permalink: /liens-numerique-responsable/
 * [Jerry Do-It-Together](https://www.youandjerrycan.org/)
 
 ### Low Tech logicielle
+
 * [Faire un site Low Tech](https://lowtechlab.org/fr/actualites-blog/faire-un-site-low-tech)
 * [How to Build a Low-tech Website?](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html)
 * [17 ways to make your website more energy efficient](https://www.wholegraindigital.com/blog/website-energy-efficiency/)
 * [Le low-tech Lab lance son site internet low-tech](https://lowtechlab.org/fr/actualites-blog/le-low-tech-lab-lance-son-site-internet-low-tech)
 * [Emmabuntüs](https://emmabuntus.org/)
+* [Image dithering](https://en.wikipedia.org/wiki/Dither)
 
 ## Donner du matériel pour sa réutilisation
 
