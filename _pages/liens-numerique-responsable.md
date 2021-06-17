@@ -112,3 +112,7 @@ permalink: /liens-numerique-responsable/
 * [WeTechCare](https://wetechcare.org/)
 * [Emmaüs Connect](https://emmaus-connect.org/)
 * [Les bons clics](https://www.lesbonsclics.fr)
+
+## Mots clés
+
+[KISS](https://fr.wikipedia.org/wiki/Principe_KISS), [YAGNI](https://fr.wikipedia.org/wiki/YAGNI), [Jugaad](https://fr.wikipedia.org/wiki/Jugaad), [Lean](https://fr.wikipedia.org/wiki/Lean_(production))
