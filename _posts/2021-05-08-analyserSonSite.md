@@ -80,11 +80,14 @@ Quelques sites remarquables ayant une note à A ou B, juste pour montrer qu'il e
 | [Angle Web](https://angleweb.fr)          | A |
 | [Cleanfox](https://www.cleanfox.io)          | A |
 | [FairTech](https://fairtec.io/)          | A |
+| [EcoloGeek](https://www.ecologeek.fr)          | A |
+| [La fabrik à vrac](https://www.lafabrikavrac.fr)          | A |
 | [Low Tech Lab](https://lowtechlab.org/fr)           | B |
 | [Website Carbon](https://www.websitecarbon.com) |  B |
 | [Commown](https://commown.coop) |  B |
 | [TeleCoop](https://telecoop.fr) |  B |
-| [Fresque du numérique](https://fresquedunumerique.org/) |  B |
+| [Fresque du numérique](https://fresquedunumerique.org) |  B |
+| [Kairos Sailing](https://www.kairos-jourdain.com) |  B |
 
 # En savoir plus
 
