@@ -113,6 +113,8 @@ permalink: /liens-numerique-responsable/
 * [WeTechCare](https://wetechcare.org/)
 * [Emmaüs Connect](https://emmaus-connect.org/)
 * [Les bons clics](https://www.lesbonsclics.fr)
+* [Cheque numérique](https://www.economie.gouv.fr/particuliers/cheque-numerique#)
+* [Société numérique](https://societenumerique.gouv.fr/inclusion-numerique/)
 
 ## Mots clés
 
