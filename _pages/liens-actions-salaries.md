@@ -22,5 +22,5 @@ permalink: /liens-actions-salaries/
 ## Agir sur le matériel numérique
 
 * 1. Proposer des téléphones portables professionnels avec 2 cartes SIM. Cela permet aux collaborateurs d'éviter d'acheter un téléphone personnel (80kg d'eqCO2). Cette suggestion fait partie des préconisations du Shift Project.
-* 2. Mettre en place soit le BYOD ([Bring your own device](https://fr.wikipedia.org/wiki/Bring_your_own_device)) soit le COPE ([Corporate owned, personally enabled](https://fr.wikipedia.org/wiki/Corporate_owned,_personally_enabled))
+* 2. Mettre en place soit le BYOD ([Bring your own device](https://fr.wikipedia.org/wiki/Bring_your_own_device)) soit le COPE ([Corporate owned, personally enabled](https://fr.wikipedia.org/wiki/Corporate_owned,_personally_enabled)) soit le BYEH (bring your enterprise home).
 
