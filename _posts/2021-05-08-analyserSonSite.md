@@ -82,6 +82,7 @@ Quelques sites remarquables ayant une note à A ou B, juste pour montrer qu'il e
 | [FairTech](https://fairtec.io/)          | A |
 | [EcoloGeek](https://www.ecologeek.fr)          | A |
 | [La fabrik à vrac](https://www.lafabrikavrac.fr)          | A |
+| [Kairos Fire](https://www.kairosfire.com)          | A |
 | [Low Tech Lab](https://lowtechlab.org/fr)           | B |
 | [Website Carbon](https://www.websitecarbon.com) |  B |
 | [Commown](https://commown.coop) |  B |
