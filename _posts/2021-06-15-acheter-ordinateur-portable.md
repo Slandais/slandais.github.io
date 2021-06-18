@@ -78,7 +78,7 @@ L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'es
 
 ## La location avec Commown
 
-Commown est une coopérative engagée pour une électronique durable. Ils proposent du matériel à la location, dont des smartphones.
+Commown est une coopérative engagée pour une électronique durable. Ils proposent du matériel à la location, dont des ordinateurs.
 La location met la pression sur le loueur, qui doit proposer du matériel durable et réparable, puisque c'est dans son intérêt financier d'éviter d'avoir des réparations coûteuses.
 En cas de panne matérielle, c'est donc à Commown que revient la charge financière de remplacer la pièce.
 
