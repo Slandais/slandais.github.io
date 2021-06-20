@@ -1,17 +1,11 @@
-- name: Accueil
-  link: /
-  
-- name: Doc
-  link: /doc
-  
 - name: Blog grand public
   link: /blog-grand-public
   
-- name: Blog tech
+- name: Blog pro
   link: /blog-tech
 
+- name: Doc
+  link: /doc
+  
 - name: A propos
   link: /a-propos
-
-- name: Contact
-  link: /contact

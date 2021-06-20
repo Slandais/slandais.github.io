@@ -93,8 +93,8 @@ Commown propose à la location des ordinateurs qu'ils peuvent facilement répare
 ## Framework
 
 Le framework est un ordinateur qui mise sur l'auto-réparabilité, celui-ci se veut facilement démontable :
-* https://frame.work/
-* https://www.lesnumeriques.com/ordinateur-portable/framework-devoile-un-pc-portable-de-13-5-pouces-evolutif-et-reparable-n160919.html
+* [Site Internet de Frame.work](https://frame.work/)
+* [Articles des numériques sur Frame.Work](https://www.lesnumeriques.com/ordinateur-portable/framework-devoile-un-pc-portable-de-13-5-pouces-evolutif-et-reparable-n160919.html)
 
 ## Aller plus loin
 

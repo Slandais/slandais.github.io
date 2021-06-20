@@ -3,14 +3,14 @@ layout: default
 title: Numérique raisonné
 ---
 
-# Accueil
+## Blogs
+
+* [Blog Grand Public](./blog-grand-public)
+* [Blog pro](./blog-tech)
+* [Tous les articles](./blog)
+
 
 ## Documentation
 
 [Documentation sur les impacts environnementaux du numérique](./doc)
 
-## Blogs
-
-* [Blog Grand Public](./blog-grand-public)
-* [Blog Tech](./blog-tech)
-* [Tous les articles](./blog)
