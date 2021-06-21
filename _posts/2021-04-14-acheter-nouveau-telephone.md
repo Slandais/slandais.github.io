@@ -40,6 +40,8 @@ Les smartphones d'occasion ou reconditionnés sont des produits de secondes main
 * [ReCommerce](https://www.recommerce.com/fr/) Pionier du reconditionnement, ils sous-traitent le reconditionnement en Europe de l'est.
 * [Remade](https://remade.com/) Spécialisé dans le reconditionnement d'iPhone. Son usine est basée près du Mont-Saint-Michel.
 * [Smaaart](https://smaaart.fr/) Son usine est basée près de Montpellier/
+* [ReBuy](https://www.rebuy.fr/) Reconditionneme des smartphones. Et "climatiquement neutre".
+* [CertiDeal](https://smaaart.fr/) Reconditionneme des smartphones. Certification ISO14001.
 * [Back Market](https://www.backmarket.fr/) Back Market est une marketplace, c’est-à-dire qu'elle met en contacte les clients et les reconditionneurs basés partout dans le monde.
 
 ## Acheter neuf : choisir du matériel durable et réparable
