@@ -21,10 +21,6 @@ Documentation sur les impacts environnementaux du numérique
 
 #### Consommation d'eau
 
-#### En savoir plus
-
-* [Liens sur les impacts du numérique](/liens-impacts-numerique)
-
 ### Agir
 
 #### Action individuelle
@@ -43,6 +39,6 @@ Documentation sur les impacts environnementaux du numérique
 
 ###### GreenTech
 
-###### Eco-Conception 
+##### Liens
 
 * [Liens sur le numérique responsable](/liens-numerique-responsable/)
