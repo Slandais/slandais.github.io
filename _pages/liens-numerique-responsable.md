@@ -42,6 +42,7 @@ permalink: /liens-numerique-responsable/
 * [Le Bitcoin peut-il être écolo ? - L'envert du décor](https://deezer.page.link/qCxUsncv6BeTFUsR9)
 * [Peut-on critiquer la technologie sans être un Amish ? - L'envert du décor](https://deezer.page.link/SpTGQiDRsTuR5mAy7)
 * [(Dé)clics responsables](https://deezer.page.link/AZdPEpzXfd2LnGcE8)
+* [Double Slash](https://deezer.page.link/5XJu3YhnLhD2kjqv8)
 * [Turbine.coop](https://deezer.page.link/BbmaU7M7vCHa5Xu78)
 
 
