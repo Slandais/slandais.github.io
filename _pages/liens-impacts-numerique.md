@@ -20,15 +20,6 @@ permalink: /liens-impacts-numerique/
 * [Colloque numérique & environnement - Ministère de l'environnement](https://www.ecologie.gouv.fr/colloque-numerique-environnement)
 * [Votre Cloud est-il net ? - Greenpeace](https://www.greenpeace.fr/votre-cloud-est-il-net/)
 
-## Podcast
-
-* [Time to shift - L'impact environnemental du numérique](https://deezer.page.link/UVEaDAJN5opQEUjs9)
-* [L'Octet Vert](https://www.deezer.com/fr/show/2377392)
-* [Supprimer des mails pour sauver la planète, cette fausse bonne idée - L'envert du décor](https://deezer.page.link/bAw7ar42WhKTGVwr6)
-* [Le Bitcoin peut-il être écolo ? - L'envert du décor](https://deezer.page.link/qCxUsncv6BeTFUsR9)
-* [Peut-on critiquer la technologie sans être un Amish ? - L'envert du décor](https://deezer.page.link/SpTGQiDRsTuR5mAy7)
-* [(Dé)clics responsables](https://deezer.page.link/AZdPEpzXfd2LnGcE8)
-
 ## Vidéos en ligne
 
 * [[DEVFEST Toulouse 2019] "Numérique et environnement"](https://www.youtube.com/watch?v=jA8aHSMZ_DI)
