@@ -17,6 +17,12 @@ permalink: /liens-numerique-responsable/
 * [Green Code Lab](https://www.greencodelab.org/)
 * [Institut du Numérique Responsable](https://institutnr.org)
 
+## MOOC
+
+* [MOOC Sensibilisation au Numérique Responsable - 30min](https://www.academie-nr.org/sensibilisation)
+* [MOOC complet Numérique Responsable - 5 heures](https://www.academie-nr.org/#mooc-nr)
+
+
 ## Livres
 
 * [Écoconception web : les 115 bonnes pratiques](https://www.eyrolles.com/Informatique/Livre/ecoconception-web-les-115-bonnes-pratiques-9782212678062/)
