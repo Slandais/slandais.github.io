@@ -16,12 +16,22 @@ permalink: /liens-numerique-responsable/
 * [Outils du Collectif GreenIt](https://collectif.greenit.fr/outils.html)
 * [Green Code Lab](https://www.greencodelab.org/)
 * [Institut du Numérique Responsable](https://institutnr.org)
+* [« Pour une sobriété numérique » : le nouveau rapport du Shift sur l’impact environnemental du numérique - 1er rapport du Shift Project](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/)
+* [« Climat : l’insoutenable usage de la vidéo en ligne » : le nouveau rapport du Shift sur l’impact environnemental du numérique - 2ème rapport du Shift Project](https://theshiftproject.org/article/climat-insoutenable-usage-video/)
 
 ## MOOC
 
 * [MOOC Sensibilisation au Numérique Responsable - 30min](https://www.academie-nr.org/sensibilisation)
 * [MOOC complet Numérique Responsable - 5 heures](https://www.academie-nr.org/#mooc-nr)
 
+## Formations
+
+* [Formations GreenIT & Eco-Conception](https://www.greenit.fr/agenda/type/formation/)
+
+## Livres
+
+* [Écoconception web : les 115 bonnes pratiques](https://www.eyrolles.com/Informatique/Livre/ecoconception-web-les-115-bonnes-pratiques-9782212678062/)
+* [Sobriété numérique - Frédéric Bordage](https://www.eyrolles.com/Informatique/Livre/sobriete-numerique-9782283032152/)
 
 ## Podcast
 
@@ -33,13 +43,14 @@ permalink: /liens-numerique-responsable/
 * [(Dé)clics responsables](https://deezer.page.link/AZdPEpzXfd2LnGcE8)
 * [Turbine.coop](https://deezer.page.link/BbmaU7M7vCHa5Xu78)
 
-## Livres
 
-* [Écoconception web : les 115 bonnes pratiques](https://www.eyrolles.com/Informatique/Livre/ecoconception-web-les-115-bonnes-pratiques-9782212678062/)
+## Vidéos en ligne
 
-## Formations
-
-* [Formations GreenIT & Eco-Conception](https://www.greenit.fr/agenda/type/formation/)
+* [[DEVFEST Toulouse 2019] "Numérique et environnement"](https://www.youtube.com/watch?v=jA8aHSMZ_DI)
+* [La vidéo en ligne, compatible avec une sobriété numérique ? - Maxime Efoui-Hess](https://www.youtube.com/watch?v=YWHzwUjWQho)
+* [Webinaire - Impact environnemental du numérique et déploiement d'une "5G raisonnée" (30/03/2021)](https://www.youtube.com/watch?v=YjL5RQ7UI7Y)
+* [6 documentaires pour s’intéresser à la pollution numérique](https://lebondigital.com/6-documentaires-pollution-numerique/)
+* [Agir pour un numérique responsable : L’impact écologique du numérique](https://www.youtube.com/watch?v=5kSz_jWYmQo)
 
 # Evaluation
 
