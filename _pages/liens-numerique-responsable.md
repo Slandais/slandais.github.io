@@ -43,6 +43,7 @@ permalink: /liens-numerique-responsable/
 * [Peut-on critiquer la technologie sans être un Amish ? - L'envert du décor](https://deezer.page.link/SpTGQiDRsTuR5mAy7)
 * [(Dé)clics responsables](https://deezer.page.link/AZdPEpzXfd2LnGcE8)
 * [Double Slash](https://deezer.page.link/5XJu3YhnLhD2kjqv8)
+* [JamStatic](https://open.spotify.com/show/58XDI48At4RsQ42NA1VPUN)
 * [Turbine.coop](https://deezer.page.link/BbmaU7M7vCHa5Xu78)
 
 
