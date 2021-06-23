@@ -83,7 +83,7 @@ L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'es
 ## Classement de Halte à L'Obsolescence Programmée
 
 Le site produit www.produitsdurables.fr , créé par l'association Halte à L'Obsolescence Programmée, propose un classement des marques d'ordinateurs portables les plus fiables et durables :
-* [https://www.produitsdurables.fr/produit/ordinateur-portable/](Halte à L'Obsolescence Programmée)
+* [Les marques d'ordinateurs les plus fiables et durables](https://www.produitsdurables.fr/produit/ordinateur-portable)
 * [Leur guide à l'achat d'ordinateur portable](https://www.produitsdurables.fr/2018/11/12/7-conseils-pour-se-procurer-un-ordinateur-portable-efficace-et-durable/)
 
 
