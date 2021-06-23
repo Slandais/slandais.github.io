@@ -95,10 +95,6 @@ L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'es
 
 * [Indice de réparabilité de iFixit](https://fr.ifixit.com/laptop-repairability?sort=score)
 
-### Indice de réparabilité de la FNAC : LaboFnac
-
-* [LaboFnac](https://www.topachat.com/comprendre/choisir-processeur.php)
-
 ## Classement de Halte à L'Obsolescence Programmée
 
 Le site produit www.produitsdurables.fr , créé par l'association Halte à L'Obsolescence Programmée, propose un classement des marques d'ordinateurs portables les plus fiables et durables. Attention toutefois ce classement se base sur les avis des visiteurs et est un classement moins fiable que les indices de réparabilité. On retrouve toutefois en 1ère position la marque "Why!" qui est réputé pour être durable.
@@ -148,7 +144,7 @@ Je préconise donc :
 * [La marque Why!](https://whyopencomputing.ch/fr/5-laptops-why), attention toutefois certains sont venus avec un système d'exploitation Linux et non pas Windows
 * [PC Vert](https://www.pcvert.fr/116-pc-portables) Qui propose des ordinateurs Why! ou bénéficient d'une bonne note de réparabilité
 * [HP Elite Book](https://fr.ifixit.com/laptop-repairability?sort=score) Bénéficiant d'une note de 10/10 selon l'indice de réparation de iFixit
-* [ASUS](https://www.indicereparabilite.fr/appareils/ordinateur-portable/?orderby=price-desc) De nombreux ordinateurs ASUS ont une bonne note de réparabilité (mais pas tous). L'un des avantages d'ASUS c'est qu'il l'un des plus gros producteurs de pièces détachés.
+* [ASUS](https://www.indicereparabilite.fr/appareils/ordinateur-portable/?orderby=price-desc) De nombreux ordinateurs ASUS ont une bonne note de réparabilité (mais pas tous). L'un des avantages d'ASUS c'est qu'il est l'un des plus gros producteurs de pièces détachés.
 
 Le matériel neuf durable représente un budget car les ordinateurs contiennent de bons matériaux qui ne tomberont pas en panne après la fin de garantie. Ils vous dureront 10ans sans problème. Et en cas de panne ou de casse seront facilement réapable : les frais de réparations seront réduis.
 Si votre budget est limité, privilégiez un ordinateur reconditionné. Car prendre un ordinateur neuf pas cher, c'est prend le risque que celui-ci ne survive pas longtemps après la fin de garantie.
