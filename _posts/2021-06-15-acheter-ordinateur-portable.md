@@ -33,6 +33,7 @@ Quels logiciels souhaitez vous installer ? Avec-vous réellement besoin de Windo
 Voici les situations où Windows est toutefois nécessaire :
 
 * Si l'ordinateur est destiné à utiliser un logiciel/jeu bien précis ne fonctionnant que sous Windows
+
 Remarque : il est possible de faire du jeu vidéo sous Linux, par exemple avec la distribution Steam OS, mais il y aura tout de même moins de jeux disponibles que sous Windows.
 
 ## Ordinateur d'occasion ou reconditionné
@@ -56,6 +57,7 @@ Mais les ordinateurs reconditionnés ont été contrôlés et vérifiés, les pi
 ## Acheter neuf
 
 Si vous voulez acheter du matériel neuf, il faut privilégier du matériel qui va vous durer le plus longtemps possible :
+
 * Privilégiez, si vos finances vous le permettent, du bon matériel afin d'anticiper les usages futurs. Peut-être que dans quelques années vous aurez envie d'installer un logiciel nécessitant un ordinateur puissant (montage de photos/vidéos, un jeu, autres usages).
 * Privilégiez du matériel durable et réparable
 
@@ -82,7 +84,7 @@ Pour conclure, si vos finances sont limités : privilégiez un bon processeur d'
 
 ### Garantie constructeur
 
-Une longue période de ganratie est signe de confiance. A l'inverse soyez méfiant vis à vis de durée de ganrarie inférieure la concurrence : si le constructeur ne prendre pas ce risque, c'est qu'il n'a pas confiance au produit qu'il fabrique. Pourquoi prendriez-vous le risque qu'il ne prend pas. ?
+Une longue période de ganratie est signe de confiance. A l'inverse soyez méfiant vis à vis de durée de ganrarie inférieure la concurrence : si le constructeur ne prendre pas ce risque, c'est qu'il n'a pas confiance au produit qu'il fabrique. Pourquoi prendriez-vous le risque qu'il ne prend pas ?
 
 ### Choisir du matériel durable et réparable
 
@@ -139,11 +141,11 @@ Plusieurs revendeurs d'ordinateur portable ne proposent que des ordinateurs "res
 Par exemple :
 * [PC Vert](https://www.pcvert.fr/116-pc-portables)
 
-## Framework
+## Frame.work
 
-Le framework n'est pas encore en vente, mais disponible à la pré-vente.
+Le Frame.work n'est pas encore en vente, mais disponible à la pré-vente.
 
-Le framework est un ordinateur qui mise sur l'auto-réparabilité, celui-ci se veut facilement démontable :
+Le Frame.work est un ordinateur qui mise sur l'auto-réparabilité, celui-ci se veut facilement démontable :
 
 * [Site Internet de Frame.work](https://frame.work/)
 * [Articles des numériques sur Frame.Work](https://www.lesnumeriques.com/ordinateur-portable/framework-devoile-un-pc-portable-de-13-5-pouces-evolutif-et-reparable-n160919.html)
@@ -157,8 +159,9 @@ Et d'acheter celui-ci auprès du entreprise sociale ou engagée installée en Fr
 * [La bootique - Les ateliers du bocage](https://la-bootique.com/) Les ateliers du bocage sont une coopérative, entreprise adaptée et d’insertion, membre du mouvement Emmaüs.
 * [AfbShop](https://www.afbshop.fr/) Vente en ligne, mais aussi 4 boutiques en France. 70% de salariés en situation de handicap.
 * [Trade Discounte](https://www.tradediscount.com/) Entreprise "eco-citoyenne", favorisant l'inclusion sociale
-* 
+
 Si vous préférez une grand enseigne vous pouvez aller voir chez [Fnac 2ème vie](https://www.fnac.com/Fnac-Seconde-Vie/Ordinateur-et-Tablette-d-occasion/shi377369/w-4#bl=2nde_vie_NMO_Micro) ou [Boulanger reconditionné](https://www.boulanger.com/c/tous-les-ordinateurs-portables/_etat_produit~reconditionne9).
+
 Vous pouvez aussi acheter du matériel reconditionné chez [Back Market](https://www.backmarket.fr) qui propose plus de choix mais peu faire intervenir des reconditionneurs à l'étranger.
 
 
