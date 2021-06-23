@@ -483,15 +483,15 @@ pre code {
     left: calc(100% - var(--switch-height) + var(--switch-padding));
   }
 
-  &:focus + .switch__label,
-  &:active + .switch__label {
-    box-shadow: 0 0 0 2px alpha(var(--color-contrast-higher), 0.08);
-  }
-
-  &:checked:focus + .switch__label,
-  &:checked:active + .switch__label {
-    box-shadow: 0 0 0 2px alpha(var(--color-primary), 0.2);
-  }
+  //&:focus + .switch__label,
+  //&:active + .switch__label {
+  // // box-shadow: 0 0 0 2px alpha(var(--color-contrast-higher), 0.08);
+  //}
+  //
+  //&:checked:focus + .switch__label,
+  //&:checked:active + .switch__label {
+  ////  box-shadow: 0 0 0 2px alpha(var(--color-primary), 0.2);
+  //}
 }
 
 .switch__label {
