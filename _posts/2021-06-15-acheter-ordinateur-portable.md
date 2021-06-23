@@ -22,9 +22,10 @@ Quel usage allez-vous en avoir ? Est-ce que cet usage ne peut pas ête comblé p
 
 ### Windows ou Linux ?
 
-Quels logiciels souhaitez vous installer ? Avec-vous réellement besoin de Windows ? 
-Voici les situations où Windows est nécessaire :
+Quels logiciels souhaitez vous installer ? Avec-vous réellement besoin de Windows ? Linux dispose de nombreux logiciels de bureautique étant équivalent à Word, il permet de naviguer sans problème sur Internet.
+Voici les situations où Windows est toutefois nécessaire :
 * Si l'ordinateur est destiné à utiliser un logiciel/jeu bien précis ne fonctionnant que sous Windows
+Remarque : il est possible de faire du jeu vidéo sous Linux, par exemple avec la distribution Steam OS, mais il y aura tout de même moins de jeux disponibles que sous Windows.
 
 ## Ordinateur d'occasion ou reconditionné
 
@@ -75,9 +76,16 @@ L'indice de réparabilité français tient aussi davantage compte de la document
 ### Indice de réparabilité de iFixit
 
 iFixit est un site Internet spécialisé dans la réparation de nos appareils. Ils ont élaboré leur propre indice de réparabilité.
-L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'est à dire celle faisable par vous même sans devoir aller voir un réparateur professionel.
+L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'est à dire celle faisable par vous même sans devoir aller voir un réparateur professionel. En général il y a des tutoriels vidéos sur Internet pour vous guider.
 
 * [Indice de réparabilité de iFixit](https://fr.ifixit.com/laptop-repairability?sort=score)
+
+## Classement de Halte à L'Obsolescence Programmée
+
+Le site produit www.produitsdurables.fr , créé par l'association Halte à L'Obsolescence Programmée, propose un classement des marques d'ordinateurs portables les plus fiables et durables :
+* [https://www.produitsdurables.fr/produit/ordinateur-portable/](Halte à L'Obsolescence Programmée)
+* [Leur guide à l'achat d'ordinateur portable](https://www.produitsdurables.fr/2018/11/12/7-conseils-pour-se-procurer-un-ordinateur-portable-efficace-et-durable/)
+
 
 ## La location avec Commown
 
@@ -95,6 +103,7 @@ Commown propose à la location des ordinateurs qu'ils peuvent facilement répare
 
 ## Framework
 
+Le framework n'est pas encore en vente, mais disponible à la pré-vente.
 Le framework est un ordinateur qui mise sur l'auto-réparabilité, celui-ci se veut facilement démontable :
 * [Site Internet de Frame.work](https://frame.work/)
 * [Articles des numériques sur Frame.Work](https://www.lesnumeriques.com/ordinateur-portable/framework-devoile-un-pc-portable-de-13-5-pouces-evolutif-et-reparable-n160919.html)
@@ -110,3 +119,5 @@ Le framework est un ordinateur qui mise sur l'auto-réparabilité, celui-ci se v
 
 * [LaCollecte.tech](https://lacollecte.tech/)
 * [Don ordi](https://donordi.fr/)
+
+
