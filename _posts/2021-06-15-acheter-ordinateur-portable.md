@@ -11,7 +11,7 @@ tags: ordinateur portable
 ## Intro
 
 L'empreinte carbone d'un ordinateur portable est d'environ 400kg d'eqCO2, sans compter d'autres pollutions : extraction des matières premiers, eau utilisée etc...
-Pour réduire cette pollution il faut faire augmenter la durée de vie de son matériel : acheter de la seconde main, acheter du matériel durable ou répable.
+Pour réduire cette pollution il faut faire augmenter la durée de vie de son matériel : acheter de la seconde main, acheter du matériel durable et réparable.
 Cet article va vous conseiller sur les différents choix que vous pouvez faire.
 
 ## Les questions à se poser
