@@ -10,7 +10,9 @@ tags: ordinateur portable
 
 ## Intro
 
-L'empreinte carbone d'un ordinateur portable est d'environ 400kg.
+L'empreinte carbone d'un ordinateur portable est d'environ 400kg d'eqCO2, sans compter d'autres pollutions : extraction des matières premiers, eau utilisée etc...
+Pour réduire cette pollution il faut faire augmenter la durée de vie de son matériel : acheter de la seconde main, acheter du matériel durable ou répable.
+Cet article va vous conseiller sur les différents choix que vous pouvez faire.
 
 ## Les questions à se poser
 
@@ -49,9 +51,10 @@ Si vous voulez acheter du matériel neuf, il faut privilégier du matériel qui 
 Le disque dur doit être un SSD. Un SSD est un disque dur beaucoup plus rapide, et moins sensible à l'usure. La quasi-totalité des ordinateurs neufs sont désormais vendus avec des disques SSD.
 
 Les autres critères à regarder sont :
-* L'espace disque du disque dur : plus celui-ci sera important plus vous pourrez stocker des données dessus (vos photos, vidéos etc...). Un disque avec beaucoup d'espace ne coute pas beaucoup plus cher, et vous permet de moins être limité.
+* L'espace disque du disque dur : plus celui-ci sera important plus vous pourrez stocker des données dessus (vos photos, vidéos etc...). Un disque avec beaucoup d'espace ne coute pas beaucoup plus cher, et vous permet de moins être limité. Sur certains ordinateurs il est possible d'avoir 2 emplacements de disque dur, c'est très intéressant afin d'acheter un ordinateur avec 1 disque SSD de moyenne capacité et vous permet dans quelques années de racheter un 2ème disque durde plus grosse capacité pour stocker vos données (photos, vidéos). Ce deuxième disque ayant vocation à être peu utilisé (vous n'allez pas voir vos photos tous les jours) peut ne pas être un SSD (ce sera un HDD).
 * La RAM : la plupart des ordinateurs sont vendus avec au moins 8Go de RAM. Il n'est pas nécessaire d'en prendre beaucoup plus, mais assurez vous que vous pouvez en rajouter si jamais vos besoins évoluent.
 * Le processeur : prennez un bon processeur. C'est ce qui est le plus difficilement changeable dans un ordinateur (contrairement à la RAM ou disque dur). Prenez un processeur un peu plus puissant que ce que vous pensez avoir besoin.
+Pour conclure, si vos finances sont limités : privilégiez un bon processeur d'abord et assurez vous que le disque dur est un SSD. Dans quelques années vous pourrez rajouter de la RAM ou changer de disque dur pour un plus gros.
 
 ### Choisir du matériel durable et réparable
 
