@@ -24,6 +24,7 @@ permalink: /liens-numerique-responsable/
 
 * [MOOC Sensibilisation au Numérique Responsable - 30min](https://www.academie-nr.org/sensibilisation)
 * [MOOC complet Numérique Responsable - 5 heures](https://www.academie-nr.org/#mooc-nr)
+* [MOOC Numérique Responsable de la Société Générale](https://careers.societegenerale.com/green-it-program)
 
 ## Formations
 
@@ -48,6 +49,7 @@ permalink: /liens-numerique-responsable/
 * [Qu'est-ce que le Design éco-responsable, le Green UX ? C’est quoi l’éco-conception ? - Design+](https://deezer.page.link/Usz6rvHtL69n6UYQ6)
 * [Eco-conception, LA voie vers un numérique responsable ? - Le digital pour tous](https://deezer.page.link/972YvBt7e6g5BYCz8)
 * [Faut-il supprimer ses mails ? - avec Guillaume Slash & Matthieu Lambda - Underscore_](https://deezer.page.link/BnBkYnFXKErVdPfJ9)
+* [Masterclasses Green IT by Société Générale](https://play.acast.com/s/masterclasses-green-it)
 
 
 ## Vidéos en ligne
