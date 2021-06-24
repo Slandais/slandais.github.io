@@ -45,6 +45,8 @@ permalink: /liens-numerique-responsable/
 * [Double Slash](https://deezer.page.link/5XJu3YhnLhD2kjqv8)
 * [JamStatic](https://open.spotify.com/show/58XDI48At4RsQ42NA1VPUN)
 * [Turbine.coop](https://deezer.page.link/BbmaU7M7vCHa5Xu78)
+* [Qu'est-ce que le Design éco-responsable, le Green UX ? C’est quoi l’éco-conception ? - Design+](https://deezer.page.link/Usz6rvHtL69n6UYQ6)
+* [Eco-conception, LA voie vers un numérique responsable ? - Le digital pour tous](https://deezer.page.link/972YvBt7e6g5BYCz8)
 
 
 ## Vidéos en ligne
