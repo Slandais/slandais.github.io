@@ -42,6 +42,7 @@ Les smartphones d'occasion ou reconditionnés sont des produits de secondes main
 * [Smaaart](https://smaaart.fr/) Son usine est basée près de Montpellier/
 * [ReBuy](https://www.rebuy.fr/) Reconditionneme des smartphones. Et "climatiquement neutre".
 * [CertiDeal](https://smaaart.fr/) Reconditionneme des smartphones. Certification ISO14001.
+* [Iodé](https://iode.tech/) Reconditionnes des smartphones avec un systèmes d'exploitations basé sur Android, mais débarrasé des trackeurs Google/Android.
 * [Back Market](https://www.backmarket.fr/) Back Market est une marketplace, c’est-à-dire qu'elle met en contacte les clients et les reconditionneurs basés partout dans le monde.
 
 ## Acheter neuf : choisir du matériel durable et réparable
@@ -82,6 +83,7 @@ Fairphone tente de changer le système de l'intérieur et d'inciter leurs concur
 
 * [Site Internet de Fairphone](https://www.fairphone.com/fr)
 
+
 ## La location avec Commown
 
 Commown est une coopérative engagée pour une électronique durable. Ils proposent du matériel à la location, dont des smartphones.
@@ -91,6 +93,10 @@ En cas de panne matérielle, c'est donc à Commown que revient la charge financi
 * [Site Internet de Commown](https://commown.coop/)
 
 ## Aller plus loin
+
+#### A évaluer
+
+* [Shift phones](https://www.shiftphones.com/en/)
 
 ### Réparer son smartphone
 
