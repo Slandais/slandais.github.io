@@ -113,11 +113,15 @@ L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'es
 
 * [Indice de réparabilité de iFixit](https://fr.ifixit.com/laptop-repairability?sort=score)
 
-## Classement de Halte à L'Obsolescence Programmée
+### Classement de Halte à L'Obsolescence Programmée
 
 Le site produit www.produitsdurables.fr , créé par l'association Halte à L'Obsolescence Programmée, propose un classement des marques d'ordinateurs portables les plus fiables et durables. Attention toutefois ce classement se base sur les avis des visiteurs et est un classement moins fiable que les indices de réparabilité. On retrouve toutefois en 1ère position la marque "Why!" qui est réputé pour être durable.
 * [Les marques d'ordinateurs les plus fiables et durables](https://www.produitsdurables.fr/produit/ordinateur-portable)
 * [Leur guide à l'achat d'ordinateur portable](https://www.produitsdurables.fr/2018/11/12/7-conseils-pour-se-procurer-un-ordinateur-portable-efficace-et-durable/)
+
+### Accessibilité de la batterie
+
+La batterie d'un ordinateur portable peu s'user. Il est préférable de choisir un ordinateur où la batterie peut être enlevée et changer facilement, sans avoir à démonter/dévisser l'ordinateur.
 
 ## La location avec Commown
 
