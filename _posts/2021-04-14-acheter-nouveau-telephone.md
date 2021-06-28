@@ -102,6 +102,7 @@ En cas de panne matérielle, c'est donc à Commown que revient la charge financi
 
 * [iFixit](https://fr.ifixit.com/)
 * [SosAv](https://www.sosav.fr/)
+* [Spareka](https://www.spareka.fr/)
 
 ### Donner son smartphone usagé
 
