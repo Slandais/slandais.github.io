@@ -20,6 +20,7 @@ permalink: /liens-numerique-responsable/
 * [« Climat : l’insoutenable usage de la vidéo en ligne » : le nouveau rapport du Shift sur l’impact environnemental du numérique - 2ème rapport du Shift Project](https://theshiftproject.org/article/climat-insoutenable-usage-video/)
 * [CALCUL DE MON IMPACT ENVIRONNEMENTAL PRO. (EN KG EQ CO2)](https://institutnr.org/calculatrice/impact-environnemental-numerique-inr.html)
 * [Clic Clean de Greenpeace](http://www.clickclean.org/france/fr/)
+* [Pollution numérique : du clic au déclic](https://www.qqf.fr/infographie/69/pollution-numerique-du-clic-au-declic)
 
 ## MOOC
 
