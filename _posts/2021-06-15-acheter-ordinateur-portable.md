@@ -188,6 +188,7 @@ Si votre budget est limité, privilégiez un ordinateur reconditionné. Car pren
 
 * [iFixit](https://fr.ifixit.com/)
 * [SosAv](https://www.sosav.fr/)
+* [Spareka](https://www.spareka.fr/)
 
 ### Donner son ordinateur usagé
 
