@@ -31,6 +31,7 @@ permalink: /liens-numerique-responsable/
 ## Formations
 
 * [Formations GreenIT & Eco-Conception](https://www.greenit.fr/agenda/type/formation/)
+* [Formation Numérique Responsable par l'INR & l'Université de La Rochelle](https://formations.univ-larochelle.fr/formation-numerique-responsable)
 
 ## Livres
 
@@ -69,6 +70,7 @@ permalink: /liens-numerique-responsable/
 ## Certifications
 
 * [Certification écoconception de service numérique](https://collectif.greenit.fr/certification.html)
+* [Certification Numérique responsable](https://institutnr.org/certificat-de-connaissance-nr)
 
 ## Mailing list
 
