@@ -21,6 +21,7 @@ permalink: /liens-numerique-responsable/
 * [CALCUL DE MON IMPACT ENVIRONNEMENTAL PRO. (EN KG EQ CO2)](https://institutnr.org/calculatrice/impact-environnemental-numerique-inr.html)
 * [Clic Clean de Greenpeace](http://www.clickclean.org/france/fr/)
 * [Pollution numérique : du clic au déclic](https://www.qqf.fr/infographie/69/pollution-numerique-du-clic-au-declic)
+* [Mise en perspective des impacts écologiques du numérique](https://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/)
 
 ## MOOC
 
