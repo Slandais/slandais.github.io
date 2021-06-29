@@ -72,10 +72,14 @@ permalink: /liens-numerique-responsable/
 
 * [NegaOctet - Évaluation de la performance environnementale des services numériques en vue de leur écoconception](https://negaoctet.org/)
 
-## Certifications
+## Certifications individuelles
 
 * [Certification écoconception de service numérique](https://collectif.greenit.fr/certification.html)
 * [Certification Numérique responsable](https://institutnr.org/certificat-de-connaissance-nr)
+
+## Certification d'entreprise
+
+* [B Corporation](https://bcorporation.eu/about-b-lab/country-partner/france)
 
 ## Mailing list
 
