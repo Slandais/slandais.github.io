@@ -28,10 +28,14 @@ permalink: /liens-numerique-responsable/
 * [MOOC complet Numérique Responsable - 5 heures](https://www.academie-nr.org/#mooc-nr)
 * [MOOC Numérique Responsable de la Société Générale](https://careers.societegenerale.com/green-it-program)
 
+## Atelier de formation collaboratif
+* [Fresque du numérique](https://www.fresquedunumerique.org/)
+
 ## Formations
 
 * [Formations GreenIT & Eco-Conception](https://www.greenit.fr/agenda/type/formation/)
 * [Formation Numérique Responsable par l'INR & l'Université de La Rochelle](https://formations.univ-larochelle.fr/formation-numerique-responsable)
+* [The Green Compagnon](https://thegreencompagnon.com/)
 
 ## Livres
 
