@@ -134,6 +134,7 @@ permalink: /liens-numerique-responsable/
 * [La collecte.tech - Donnez une 2e vie au matériel numérique de votre organisation - Emmaüs Connect](https://lacollecte.tech/)
 * [Je donne mon téléphone](https://www.jedonnemontelephone.fr/)
 * [Don ordi - Carte des organismes récupérant les ordinateurs](http://donordi.fr/)
+* [ATF Gaia](https://www.atf-gaia.fr)
 
 ## Location de matériel
 
