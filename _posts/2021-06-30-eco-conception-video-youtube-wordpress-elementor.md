@@ -2,7 +2,7 @@
 title: Wordpress : eco-conception de l'intégration d'une vidéo Youtube avec Elementor
 description: Comment éco-concevoir l'intégration d'une vidéo hébergée sur Youtube sur un site Wordpress utilisant Elementor
 layout: post
-category: pro
+category: tech
 tags: wordpress, youtube
 ---
 
