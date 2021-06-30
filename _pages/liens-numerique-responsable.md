@@ -42,6 +42,7 @@ permalink: /liens-numerique-responsable/
 
 * [Écoconception web : les 115 bonnes pratiques](https://www.eyrolles.com/Informatique/Livre/ecoconception-web-les-115-bonnes-pratiques-9782212678062/)
 * [Sobriété numérique - Frédéric Bordage](https://www.eyrolles.com/Informatique/Livre/sobriete-numerique-9782283032152/)
+* [KAIZEN Numéro Spécial : NUMERIQUE RESPONSABLE, co-édité avec ZENIKA](https://boutique.kaizen-magazine.com/hors-series/645-numero-special-numerique-responsable.html)
 
 ## Podcast
 
