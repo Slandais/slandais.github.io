@@ -1,7 +1,6 @@
 ---
-title: Wordpress : eco-conception de l'intégration d'une vidéo Youtube avec Elementor
+title: Wordpress - eco-conception de l'intégration d'une vidéo Youtube avec Elementor
 description: Comment éco-concevoir l'intégration d'une vidéo hébergée sur Youtube sur un site Wordpress utilisant Elementor
-permalink: /eco-conception-video-youtube-wordpress-elementor
 layout: post
 category: tech
 tags: [wordpress, youtube]
@@ -35,7 +34,3 @@ est : jA8aHSMZ_DI
 La miniature peut ainsi être récupérée en modifiant l'identifiant dans cette URL : https://img.youtube.com/vi/jA8aHSMZ_DI/hqdefault.jpg
 
 Téléchargez-la et ajoutez-la dans Elementor dans le bloc Superposition d'image à la vidéo.
-
-
-
-
