@@ -3,7 +3,7 @@ title: Wordpress : eco-conception de l'intégration d'une vidéo Youtube avec El
 description: Comment éco-concevoir l'intégration d'une vidéo hébergée sur Youtube sur un site Wordpress utilisant Elementor
 layout: post
 category: tech
-tags: wordpress, youtube
+tags: [wordpress, youtube]
 ---
 
 Lorsque vous intégrez l'iframe Youtube sur votre site, celle-ci effectue plus de 14 requêtes aux serveurs Youtube pour charger les différents élements.
