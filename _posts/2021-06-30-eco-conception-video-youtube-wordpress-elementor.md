@@ -34,7 +34,7 @@ L'image de la miniature doit désormais être ajoutée à votre site. Voici comm
 
 Récupérez l'identifiant de votre vidéo :
 
-Par exemple l'identifiant de cette vidéo : https://www.youtube.com/watch?v=jA8aHSMZ_DI
+Par exemple l'identifiant de cette vidéo : (https://www.youtube.com/watch?v=jA8aHSMZ_DI)
 est : jA8aHSMZ_DI
 
 La miniature peut ainsi être récupérée en modifiant l'identifiant dans cette URL : https://img.youtube.com/vi/jA8aHSMZ_DI/hqdefault.jpg
