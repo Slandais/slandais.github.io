@@ -11,6 +11,7 @@ tags: [wordpress, youtube]
 Lorsque vous intégrez l'iframe Youtube sur votre site, celle-ci effectue plus de 14 requêtes aux serveurs Youtube pour charger les différents élements.
 
 Sur un site dont vous maitrisez totalement le rendu HTML vous pouvez :
+
 * [Utiliser l'attribut srcdoc de la balide iframe](https://dev.to/haggen/lazy-load-embedded-youtube-videos-520g) : ainsi seule la miniature est chargée. Le reste de l'iframe n'est chargé que si l'utilisateur clic pour voir la vidéo.
 * [Utiliser le lecteur Youlazy](https://www.nuweb.fr/blog/post/793/youlazy-un-lecteur-youtube-eco-concu-et-accessible.html) : même principe en plus optimisée, puisque la miniature n'est chargé que si le navigateur doit l'afficher. Si celle-ci se situe en pied de page, elle ne sera pas affichée tant que l'utilisateur n'a pas scrollé.
 
