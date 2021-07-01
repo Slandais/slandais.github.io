@@ -22,6 +22,7 @@ permalink: /liens-numerique-responsable/
 * [Clic Clean de Greenpeace](http://www.clickclean.org/france/fr/)
 * [Pollution numérique : du clic au déclic](https://www.qqf.fr/infographie/69/pollution-numerique-du-clic-au-declic)
 * [Mise en perspective des impacts écologiques du numérique](https://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/)
+* [Quel outil de vidéoconférence](https://greenspector.com/fr/quelle-application-mobile-de-visioconference-pour-reduire-votre-impact-edition-2021/)
 
 ## MOOC
 
