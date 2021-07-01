@@ -21,6 +21,7 @@ Mais sur Elementor vous n'avez pas la main sur cet attribut srcdoc ou sur youlaz
 Dans Elementor, ouvrez le panneau de modification de la vidéo et cliquez sur "Superposition d'image".
 
 Activez les éléments suivants :
+
 * Superposition d'image : Afficher
 * Choisissez une image : la miniature de la vidéo (explication plus bas)
 * Chargement différé : Oui
