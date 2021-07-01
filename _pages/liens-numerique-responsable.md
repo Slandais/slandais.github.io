@@ -24,6 +24,7 @@ permalink: /liens-numerique-responsable/
 * [Mise en perspective des impacts écologiques du numérique](https://raphael-lemaire.com/2019/11/02/mise-en-perspective-impacts-numerique/)
 * [Greenspector](https://greenspector.com/fr/accueil/)
 * [Quel outil de vidéoconférence - Greenspector](https://greenspector.com/fr/quelle-application-mobile-de-visioconference-pour-reduire-votre-impact-edition-2021/)
+* [LIVRE BLANC DE L’ACTION GreenConcept eco-conception numérique](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
 
 ## MOOC
 
