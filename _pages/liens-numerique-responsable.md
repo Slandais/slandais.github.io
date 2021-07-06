@@ -12,6 +12,7 @@ permalink: /liens-numerique-responsable/
 * [Le bon digital](https://lebondigital.com/)
 * [ADEME - Numérique responsable](https://communication-responsable.ademe.fr/digital-eco-responsable)
 * [Site de Gauthier Roussilhe](https://gauthierroussilhe.com/)
+* [EcoInfo CNRS](https://ecoinfo.cnrs.fr/)
 * [GreenIt](https://www.greenit.fr/)
 * [Outils du Collectif GreenIt](https://collectif.greenit.fr/outils.html)
 * [Green Code Lab](https://www.greencodelab.org/)
