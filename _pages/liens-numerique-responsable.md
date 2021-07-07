@@ -93,8 +93,9 @@ permalink: /liens-numerique-responsable/
 ## Tutoriels
 
 * [Comment réduire en 5 minutes le poids d’une vidéo tout en gardant une bonne qualité ?](https://theshiftproject.org/guide-reduire-poids-video-5-minutes/)
-* [Shrink my video](https://acailly.github.io/shrink-my-video/)
+* [Shrink my video - Réduire le poids d'une vidéo en ligne](https://acailly.github.io/shrink-my-video/)
 * [Réduire le poids d'une image en la redimensionnant (avec PhotoFiltre)](https://www.nuweb.fr/blog/post/754/reduire-le-poids-d-une-image-en-la-redimensionnant-avec-photofiltre.html)
+* [Réduire le poids d'une image en ligne avec DitherIt](https://ditherit.com/)
 
 ## Outils écoconception
 
