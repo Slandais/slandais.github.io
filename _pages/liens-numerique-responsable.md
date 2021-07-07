@@ -26,6 +26,7 @@ permalink: /liens-numerique-responsable/
 * [Greenspector](https://greenspector.com/fr/accueil/)
 * [Quel outil de vidéoconférence - Greenspector](https://greenspector.com/fr/quelle-application-mobile-de-visioconference-pour-reduire-votre-impact-edition-2021/)
 * [LIVRE BLANC DE L’ACTION GreenConcept eco-conception numérique](http://www.greenconcept-innovation.fr/wp-content/uploads/2020/02/greenconcept_21022020.pdf)
+* [WeGreenIt - WWF](https://www.wwf.fr/vous-informer/actualites/etude-wegreenit-quel-impact-environnemental-du-numerique-dans-les-entreprises)
 
 ## MOOC
 
