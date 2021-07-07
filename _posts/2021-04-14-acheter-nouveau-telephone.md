@@ -43,7 +43,7 @@ Les smartphones d'occasion ou reconditionnés sont des produits de secondes main
 * [ReBuy](https://www.rebuy.fr/) Reconditionneme des smartphones. Et "climatiquement neutre".
 * [CertiDeal](https://smaaart.fr/) Reconditionneme des smartphones. Certification ISO14001.
 * [Iodé](https://iode.tech/) Reconditionnes des smartphones avec un systèmes d'exploitations basé sur Android, mais débarrasé des trackeurs Google/Android.
-* [Back Market](https://www.backmarket.fr/) Back Market est une marketplace, c’est-à-dire qu'elle met en contacte les clients et les reconditionneurs basés partout dans le monde.
+* [Back Market](https://www.backmarket.fr/) Back Market est une marketplace, c’est-à-dire qu'elle met en contacte les clients et les reconditionneurs basés partout dans le monde. Si vous achetez sur BackMarket, il faut choisir un vendeur ayant une bonne note et de nombreux bons avis.
 
 ## Acheter neuf : choisir du matériel durable et réparable
 
