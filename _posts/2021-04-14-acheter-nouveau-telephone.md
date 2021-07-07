@@ -66,6 +66,13 @@ L'indice de réparabilité iFixit mets en avant la réparabilité "maison", c'es
 
 * [Indice de réparabilité de iFixit](https://fr.ifixit.com/smartphone-repairability?sort=score)
 
+### Classement de Halte à L'Obsolescence Programmée
+
+Le site produit www.produitsdurables.fr , créé par l'association Halte à L'Obsolescence Programmée, propose un classement des marques de smartphones les plus fiables et durables. Attention toutefois ce classement se base sur les avis des visiteurs et est un classement moins fiable que les indices de réparabilité. On retrouve toutefois en 1ère position la marque "Why!" qui est réputé pour être durable.
+* [Les marques d'ordinateurs les plus fiables et durables](https://www.produitsdurables.fr/produit/telephone-mobile/)
+* [Leur guide à l'achat d'ordinateur portable](https://www.produitsdurables.fr/2018/11/12/7-conseils-pour-se-procurer-un-ordinateur-portable-efficace-et-durable/)
+
+
 ### EcoRating
 
 L'EcoRating est un indice créé par les acteurs de la téléphonie. Il sera utilisé à partir de juin 2021. L'un de ses avantages est d'être plus large qu'un indice de réparabilité, en tenant compte aussi de la durabilité, de la recyclabilité, de la préservation des ressources et de la présenvation du climat (son empreinte carbone). Son inconvénient est qu'il s'agit d'un indice auto-évalué.
@@ -93,6 +100,8 @@ En cas de panne matérielle, c'est donc à Commown que revient la charge financi
 * [Site Internet de Commown](https://commown.coop/)
 
 ## Aller plus loin
+
+* [Articles sur les smartphone sur le site Produits Durables](https://www.produitsdurables.fr/?s=smartphone)
 
 #### A évaluer
 
