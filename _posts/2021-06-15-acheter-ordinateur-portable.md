@@ -53,7 +53,7 @@ Mais les ordinateurs reconditionnés ont été contrôlés et vérifiés, les pi
 * [EcoDair](https://www.ordinateur-occasion.com/) Economie solidaire
 * [Fnac 2ème vie](https://www.fnac.com/Fnac-Seconde-Vie/Ordinateur-et-Tablette-d-occasion/shi377369/w-4#bl=2nde_vie_NMO_Micro)
 * [Boulanger ordinateur reconditionné](https://www.boulanger.com/c/tous-les-ordinateurs-portables/_etat_produit~reconditionne9)
-* [Back Market](https://www.backmarket.fr/) Back Market est une marketplace, c’est-à-dire qu'elle met en contacte les clients et les reconditionneurs basés partout dans le monde. Si vous achtez sur BackMarket, il faut choisir un vendeur ayant une bonne note et de nombreux bons avis.
+* [Back Market](https://www.backmarket.fr/) Back Market est une marketplace, c’est-à-dire qu'elle met en contacte les clients et les reconditionneurs basés partout dans le monde. Si vous achetez sur BackMarket, il faut choisir un vendeur ayant une bonne note et de nombreux bons avis.
 
 ## Acheter neuf
 
