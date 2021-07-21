@@ -34,6 +34,7 @@ permalink: /liens-numerique-responsable/
 * [MOOC Sensibilisation au Numérique Responsable - 30min](https://www.academie-nr.org/sensibilisation)
 * [MOOC complet Numérique Responsable - 5 heures](https://www.academie-nr.org/#mooc-nr)
 * [MOOC Numérique Responsable de la Société Générale](https://careers.societegenerale.com/green-it-program)
+* [MOOC sur la transition énergétique en entreprise par le C3D](https://www.cddd.fr/mooc-comprendre-crise-ecologique-reinventer-entreprise-c3d-pre/)
 
 ## Atelier de formation collaboratif
 * [Fresque du numérique](https://www.fresquedunumerique.org/)
